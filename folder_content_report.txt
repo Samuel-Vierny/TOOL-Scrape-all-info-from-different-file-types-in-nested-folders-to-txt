@@ -1,0 +1,1835 @@
+FOLDER CONTENT REPORT
+Source Folder: C:\Users\samue\Downloads\Sintica docs
+Scan Date: 2025-05-26 22:53:13
+Total files processed: 146
+================================================================================
+
+Directory Tree for: C:\Users\samue\Downloads\Sintica docs
+==================================================
+Sintica docs/
+├── Annex-20250526T203919Z-1-001/
+├── 2024-3 Project Proposal - Sintica Certification Document Engine.pdf
+├── TC - SiglaNomeDisp_Rev00.0.docx
+├── TC - SiglaNomeDisp_Rev00.0_EN.docx
+├── folder_content_report.txt
+├── folder_tree.txt
+│   ├── Annex/
+│   │   ├── 00_Dichiarazione di Conformità/
+│   │   ├── 01_STED/
+│   │   ├── 02_Info per Utenti/
+│   │   ├── 03_Fascicolo di Progettazione/
+│   │   ├── 04_RES/
+│   │   ├── 05_Gestione Rischi/
+│   │   ├── 06.1_Test Report/
+│   │   ├── 06.2_Biocompatibilità/
+│   │   ├── 06.3_Sviluppo SW/
+│   │   ├── 06.4_Usabilità/
+│   │   ├── 06.5_Sostanze Speciali/
+│   │   ├── 07_PMS/
+│   │   ├── 08_CER/
+│   │   │   ├── Disp_Dichiarazione UE EN_Rev00.1.docx
+│   │   │   └── Disp_Dichiarazione UE IT_Rev00.1.docx
+│   │   │   ├── STED - SiglaNomeDisp_Rev00.0.docx
+│   │   │   ├── STED - SiglaNomeDisp_Rev00.0_EN.docx
+│   │   │   ├── STED - SiglaNomeDisp_Rev00.1_EN.docx
+│   │   │   ├── STED - SiglaNomeDisp_Rev00.1_IT.docx
+│   │   │   └── STED = Summary of Technical Documentation.txt
+│   │   │   ├── § CEM/
+│   │   │   ├── Format IFU_EN_Rev00.1.docx
+│   │   │   ├── Format IFU_IT_Rev00.2.docx
+│   │   │   │   ├── Riepilogo Gruppo e Classe.txt
+│   │   │   │   ├── Tabelle CEM Gruppo 1 Classe A_EN_Rev00 - x IFU.docx
+│   │   │   │   ├── Tabelle CEM Gruppo 1 Classe A_EN_Rev00.docx
+│   │   │   │   ├── Tabelle CEM Gruppo 1 Classe A_ITA_Rev00 - x IFU.docx
+│   │   │   │   ├── Tabelle CEM Gruppo 1 Classe A_ITA_Rev00.docx
+│   │   │   │   ├── Tabelle CEM Gruppo 1 Classe B_EN_Rev00 - x IFU.docx
+│   │   │   │   ├── Tabelle CEM Gruppo 1 Classe B_EN_Rev00.docx
+│   │   │   │   ├── Tabelle CEM Gruppo 1 Classe B_ITA_Rev00 - x IFU.docx
+│   │   │   │   ├── Tabelle CEM Gruppo 1 Classe B_ITA_Rev00.docx
+│   │   │   │   ├── Tabelle CEM Gruppo 2 Classe A_EN_Rev00 - x IFU.docx
+│   │   │   │   ├── Tabelle CEM Gruppo 2 Classe A_EN_Rev00.docx
+│   │   │   │   ├── Tabelle CEM Gruppo 2 Classe A_ITA_Rev00 - x IFU.docx
+│   │   │   │   ├── Tabelle CEM Gruppo 2 Classe A_ITA_Rev00.docx
+│   │   │   │   ├── Tabelle CEM Gruppo 2 Classe B_EN_Rev00 - x IFU.docx
+│   │   │   │   ├── Tabelle CEM Gruppo 2 Classe B_EN_Rev00.docx
+│   │   │   │   ├── Tabelle CEM Gruppo 2 Classe B_ITA_Rev00 - x IFU.docx
+│   │   │   │   └── Tabelle CEM Gruppo 2 Classe B_ITA_Rev00.docx
+│   │   │   ├── Datasheet/
+│   │   │   ├── Diagrammi di Flusso - se del caso/
+│   │   │   ├── Disegni/
+│   │   │   ├── Distinta Base/
+│   │   │   ├── Fabbricazione/
+│   │   │   ├── Imballo Speciale - se del caso/
+│   │   │   ├── Schemi Elettrici - se del caso/
+│   │   │   ├── Schemi a Blocchi - se del caso/
+│   │   │   ├── Specifiche - se del caso/
+│   │   │   ├── Sterilizzazione - se del caso/
+│   │   │   ├── Test Accuratezza uscite Tecnologie.1.xlsx
+│   │   │   │   ├── Procedure di Collaudo/
+│   │   │   │   ├── Procedure di Fabbricazione/
+│   │   │   │   ├── Procedure di Imballaggio/
+│   │   │   │   ├── Rapporto di Fabbricazione/
+│   │   │   │   └── INFO Sterilizzazione.txt
+│   │   │   ├── CS.GR - SiglaNomeDisp_Rev00.0_EN.docx
+│   │   │   ├── CS.ReqAnnexVI - SiglaNomeDisp_Rev00.0_EN.docx
+│   │   │   ├── DPI - SiglaNomeDisp_Rev00.0.docx
+│   │   │   ├── DPI - SiglaNomeDisp_Rev00.0_EN.docx
+│   │   │   ├── GSPR - NomeDisp_Rev00 (60601-1-11).docx
+│   │   │   ├── GSPR - NomeDisp_Rev00.1 (60601-1-11).docx
+│   │   │   ├── GSPR - SiglaNomeDisp_Rev00.0.docx
+│   │   │   ├── GSPR - SiglaNomeDisp_Rev00.0_EN.docx
+│   │   │   ├── GSPR - SiglaNomeDisp_Rev00.1_EN.docx
+│   │   │   ├── PED - SiglaNomeDisp_Rev00.0.docx
+│   │   │   ├── PED - SiglaNomeDisp_Rev00.0_EN.docx
+│   │   │   ├── RE.Mac - SiglaNomeDisp_Rev00.0.docx
+│   │   │   ├── RE.Mac - SiglaNomeDisp_Rev00.0_EN.docx
+│   │   │   ├── RE.Mac - SiglaNomeDisp_Rev00.1.docx
+│   │   │   └── RE.Mac - SiglaNomeDisp_Rev00.1_EN.docx
+│   │   │   ├── RMF - SiglaNomeDisp_Rev00.0.docx
+│   │   │   ├── RMF - SiglaNomeDisp_Rev00.0_EN.docx
+│   │   │   ├── RMF - SiglaNomeDisp_Rev00.1_EN.docx
+│   │   │   ├── RMF - SiglaNomeDisp_Rev00.1_IT.docx
+│   │   │   ├── RMF - SiglaNomeDisp_Rev00.2_EN.docx
+│   │   │   ├── RMF - SiglaNomeDisp_Rev00.2_IT.docx
+│   │   │   ├── Risk Assessment - NomeDispositivo_Rev00.1.xlsx
+│   │   │   ├── Risk Assessment - NomeDispositivo_Rev00.1_EN - Copia.xlsx
+│   │   │   ├── Risk Assessment - NomeDispositivo_Rev00.1_EN.xlsx
+│   │   │   └── Risk Assessment - NomeDispositivo_Rev00.1_IT.xlsx
+│   │   │   ├── 00_EN 60601-1 + 2/
+│   │   │   ├── Esempio Durata di Vita.docx
+│   │   │   ├── Prescrizioni costruttive per gli INVOLUCRI a prova di fuoco degli APPARECCHI EM.pdf
+│   │   │   ├── Prova ribaltamento Laser 60601-1.docx
+│   │   │   ├── Service Life Verification Report - Nome Disp_Rev00_EN.docx
+│   │   │   │   ├── Check List CEI EN 60601-1-2_A1 Vuota.docx
+│   │   │   │   ├── Check List CEI EN 60601-1_A2 Vuota.docx
+│   │   │   │   ├── Modifiche Norme CEM.docx
+│   │   │   │   ├── iec60601-1-2{ed4.1}en.pdf
+│   │   │   │   └── iec60601-1{ed3.2}en (1).pdf
+│   │   │   ├── BioC - SiglaNomeDisp_Rev00.0.docx
+│   │   │   ├── BioC - SiglaNomeDisp_Rev00.1.docx
+│   │   │   ├── BioC - SiglaNomeDisp_Rev00.1_EN.docx
+│   │   │   ├── BioC - SiglaNomeDisp_Rev00.2_EN.docx
+│   │   │   └── BioC - SiglaNomeDisp_Rev00.3_EN.docx
+│   │   │   ├── Old/
+│   │   │   ├── Nome Dispositivo - Processo Sviluppo SW Classe C-B-A_Rev00.1_EN.docx
+│   │   │   ├── NomeDispositivo - Check List EN 62304_20aa.mm.gg - ClasseC_Rev00.1.docx
+│   │   │   ├── NomeDispositivo - Check List EN_20aa.mm.gg - ClasseA_Rev00.2.docx
+│   │   │   ├── NomeDispositivo - Check List EN_20aa.mm.gg - ClasseB_Rev00.2.docx
+│   │   │   ├── NomeDispositivo - Check List EN_20aa.mm.gg - ClasseC_Rev00.2.docx
+│   │   │   ├── S.SW.A - Nome Dispositivo_Rev00.2_IT.docx
+│   │   │   ├── S.SW.C-B-A - Nome Dispositivo_Rev00.2_EN.docx
+│   │   │   ├── S.SW.C-B-A - Nome Dispositivo_Rev00.2_IT.docx
+│   │   │   │   ├── NomeDispositivo - Check List EN 62304_20aa.mm.gg - ClasseA.docx
+│   │   │   │   ├── NomeDispositivo - Check List EN 62304_20aa.mm.gg - ClasseB.docx
+│   │   │   │   ├── NomeDispositivo - Check List EN 62304_20aa.mm.gg - ClasseC.docx
+│   │   │   │   ├── S.SW.A - NomeDisp_Rev00.0_EN.docx
+│   │   │   │   └── S.SW.B - NomeDisp_Rev00.0_EN.docx
+│   │   │   ├── NomeDisp - Check List EN 60601-1-6_Rev00.1_IT.docx
+│   │   │   ├── NomeDisp - Form Questionario usabilità.Rev00.0.docx
+│   │   │   ├── NomeDisp - Form Questionario usabilitàRev00.1.docx
+│   │   │   ├── P.Usab - NomeDisp_Rev00.0_EN.docx
+│   │   │   ├── P.Usab - NomeDisp_Rev00.1_EN.docx
+│   │   │   └── P.Usab - NomeDisp_Rev00.1_IT.docx
+│   │   │   ├── CMR/
+│   │   │   ├── Interferenti Endocrini/
+│   │   │   ├── Introdotte Assorbite Disperse nel Corpo/
+│   │   │   ├── Medicinali/
+│   │   │   ├── Tessuti Cellule Umane Animali/
+│   │   │   │   └── INFO CMR.txt
+│   │   │   │   └── INFO Interferenti Endocrini.txt
+│   │   │   │   └── INFO Int Ass Disp nel Corpo.txt
+│   │   │   │   └── INFO Medicinali.txt
+│   │   │   │   └── INFO Tessuti Cellule Umane Animali.txt
+│   │   │   ├── Ref/
+│   │   │   ├── Banche Dati Reference.docx
+│   │   │   ├── NomeDispositivo - Trend Report_Rev00.0.docx
+│   │   │   ├── P.PMS - NomeDisp_Rev00.1_IT.docx
+│   │   │   ├── P.PMS - SiglaNomeDisp_Rev00.0.docx
+│   │   │   ├── P.PMS - SiglaNomeDisp_Rev00.0_EN.docx
+│   │   │   ├── P.PMS - SiglaNomeDisp_Rev00.1_EN.docx
+│   │   │   ├── PMCF Report - NomeDispositivo_Rev00.0_EN.docx
+│   │   │   ├── PMCF Report - NomeDispositivo_Rev00.0_IT.docx
+│   │   │   ├── PMS - NomeDispositivo_Rev00.0.xlsx
+│   │   │   ├── PMS - collegamento.lnk
+│   │   │   ├── PSUR - NomeDispositivo_Rev00.0.docx
+│   │   │   ├── PSUR - NomeDispositivo_Rev00.0_EN.docx
+│   │   │   ├── PSUR - NomeDispositivo_Rev00.1.docx
+│   │   │   ├── PSUR - NomeDispositivo_Rev00.1_EN.docx
+│   │   │   │   └── MDR_CIRC_Min_Sal_Vigilanza_08-07-2021.pdf
+│   │   │   ├── 00.1_CV/
+│   │   │   ├── 00.2_BIBLIO/
+│   │   │   ├── 00_CER/
+│   │   │   ├── 01_PSUR/
+│   │   │   ├── 02.1_Sondaggio Alto Livello/
+│   │   │   ├── 02_PMCF/
+│   │   │   ├── 03_SSCP/
+│   │   │   ├── REF/
+│   │   │   ├── 02.1_Sondaggio Alto Livello.zip
+│   │   │   ├── CER - SiglaNomeDisp_Rev00.docx
+│   │   │   ├── CER NA - NomeDispositivo_Rev00.docx
+│   │   │   │   ├── OLD/
+│   │   │   │   ├── Ref/
+│   │   │   │   ├── CEP - NomeDisp_Rev00.docx
+│   │   │   │   ├── CEP - NomeDisp_Rev00_EN.docx
+│   │   │   │   ├── CER - NomeDisp_Rev00.1_EN.docx
+│   │   │   │   ├── CER - NomeDisp_Rev00.1_IT.docx
+│   │   │   │   ├── CER - NomeDisp_Rev00_EN.docx
+│   │   │   │   │   ├── CER - NomeDispositivo_Rev00.3_EN.docx
+│   │   │   │   │   └── CER - NomeDispositivo_Rev00.3_IT.docx
+│   │   │   │   │   ├── BSI - clinical-evaluation-under-eu-mdr - Estratto.docx
+│   │   │   │   │   ├── BSI - clinical-evaluation-under-eu-mdr.pdf
+│   │   │   │   │   ├── md_mdcg_2020_5_guidance_clinical_evaluation_equivalence_en.pdf
+│   │   │   │   │   ├── md_mdcg_2020_6_ Vedere all’Appendix III punto 4 Ultima riga.txt
+│   │   │   │   │   └── md_mdcg_2020_6_guidance_sufficient_clinical_evidence_en_0.pdf
+│   │   │   │   ├── PMCF in Field - Cryo+ES_Pain_Rev00.docx
+│   │   │   │   ├── PMCF in Field - EP_Pain_Rev00.docx
+│   │   │   │   ├── PMCF in Field - ES_Pain_Rev00.docx
+│   │   │   │   ├── PMCF in Field - FELC_Blefaroplastica_Rev00.docx
+│   │   │   │   ├── PMCF in Field - FELC_Xantelasmi_Rev00.docx
+│   │   │   │   ├── PMCF in Field - FS_Acne_Rev00.docx
+│   │   │   │   ├── PMCF in Field - FS_Pain_Rev00.docx
+│   │   │   │   ├── PMCF in Field - HIFU-v_IS_Rev00.docx
+│   │   │   │   ├── PMCF in Field - HIFU-v_LSV_Rev00.docx
+│   │   │   │   ├── PMCF in Field - RF+ES+EP_AtDiGen_Rev00.docx
+│   │   │   │   ├── PMCF in Field - RF+ES+EP_Dispareunia_Rev00.docx
+│   │   │   │   ├── PMCF in Field - RF+ES+EP_IU_Rev00.docx
+│   │   │   │   ├── PMCF in Field - RF_Acne_Rev00.docx
+│   │   │   │   ├── PMCF in Field - RF_Pain_Rev00.docx
+│   │   │   │   ├── Sondaggio Clinico - Riepilogo NomeDisp_Rev00.xlsx
+│   │   │   │   └── Survey_Device Name_Rev00.xlsx
+│   │   │   │   ├── Ref/
+│   │   │   │   ├── PMCF Plan - NomeDisp_Rev00.docx
+│   │   │   │   ├── PMCF Plan - NomeDisp_Rev00_EN.docx
+│   │   │   │   └── summary-of-safety-and-clinical-performance.pdf
+│   │   │   │   └── 6_25072024_VC_CEP_toolkit.pdf
+==================================================
+
+DETAILED FILE INFORMATION:
+================================================================================
+
+--- File #1 ---
+Filename: 2024-3 Project Proposal - Sintica Certification Document Engine.pdf
+Type: .pdf
+Location: C:\Users\samue\Downloads\Sintica docs\2024-3 Project Proposal - Sintica Certification Document Engine.pdf
+Notes: [Content extraction for .pdf not yet implemented, but file is present.]
+
+------------------------------------------------------------
+
+--- File #2 ---
+Filename: Disp_Dichiarazione UE EN_Rev00.1.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\00_Dichiarazione di Conformità\Disp_Dichiarazione UE EN_Rev00.1.docx
+Extracted Title(s)/Heading(s): DECLARATION OF CONFORMITYUE
+Content Preview:
+"""
+DECLARATION OF CONFORMITYUE
+
+the company ID_Organizzazione,
+with legal office at Indirizzo, CAP Città Nazione
+and operative office at Indirizzo, CAP Città Nazione,
+Unique Registration Number (SRN) EUDAMED IT-MF- nnnnnnnnn,
+declares
+under his own full responsibility that the following medical device
+
+complies with Regulation (EU) 2017/745 ( Medical Devices)
+to Directive 2011/65/EU (RoHS 2) and Delegated Directive 2015/863/EU (RoHS 3)
+Certificate n. XXXXXXXX 
+issued by NomeEnteNotificato - Indirizzo, CAP Città Nazione –
+Notified Body n. N.ID_EnteN
+according to the Procedure of Annex IX of Regulation (EU) 2017/745
+(Conformity Assessment based on Quality Management System and Technical Documentation Assessment)
+"""
+
+------------------------------------------------------------
+
+--- File #3 ---
+Filename: Disp_Dichiarazione UE IT_Rev00.1.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\00_Dichiarazione di Conformità\Disp_Dichiarazione UE IT_Rev00.1.docx
+Extracted Title(s)/Heading(s): Dichiarazione di Conformità UE
+Content Preview:
+"""
+Dichiarazione di Conformità UE
+
+Il Fabbricante ID_Organizzazione,
+con sede legale e operativa in Indirizzo, CAP Città Nazione,
+Numero di Registrazione Unico (SRN) EUDAMED IT-MF-nnnnnnnnn,
+dichiara
+sotto la propria totale responsabilità che il dispositivo medico di seguito specificato
+
+
+è conforme al Regolamento (UE) 2017/745 (Dispositivi Medici),  
+alla Direttiva 2011/65/UE (RoHS 2) e Direttiva Delegata 2015/863/UE (RoHS 3)
+Certificato n. XXXXXXXX 
+rilasciato da NomeEnteNotificato - Indirizzo, CAP Città Nazione – 
+Organismo Notificato n. N.ID_EnteN 
+secondo la Procedura dell’Allegato IX del Regolamento (UE) 2017/745
+(Valutazione della Conformità basata sul Sistema di Gestione della Qualità e sulla Valutazione della Documentazione Tecnica)
+"""
+
+------------------------------------------------------------
+
+--- File #4 ---
+Filename: STED - SiglaNomeDisp_Rev00.0.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\01_STED\STED - SiglaNomeDisp_Rev00.0.docx
+Extracted Title(s)/Heading(s): Frontespizio; Data e Firma di Approvazione; Sommario
+Content Preview:
+"""
+Frontespizio
+
+Fascicolo Tecnico
+in conformità al Regolamento (UE) 2017/745 
+come Modificato dal Regolamento (UE) 2020/561 
+del/i Dispositivo/i | della famiglia dei dispositivi
+Nome Dispositivo | Famiglia
+nei modelli
+Modello X, Modello Y e Modello Z
+
+Data e Firma di Approvazione
+
+
+Sommario
+Frontespizio	1
+Data e Firma di Approvazione	1
+Sommario	2
+Struttura della Documentazione Tecnica	4
+Tavola delle Revisioni	5
+Iter di Certificazione	5
+1	Descrizione e Specifiche del Dispositivo	10
+1.1	Modelli e Varianti	10
+1.1.1	Modello NomeCommerciale.X	10
+1.2	Componenti	14
+1.2.1	Parti Funzionali	14
+1.2.2	Parti Funzionali Operative	14
+1.2.3	Componenti di Consumo	14
+1.2.4	Dispositivi di Protezione Individuale	14
+1.3	Dotazione	15
+1.4	Associazione con Altri Dispositivi	15
+1.5	Caratteristiche Innovative	16
+1.6	Generazioni Precedenti del Dispositivo	16
+1.6.1	Evoluzione del Dispositivo	16
+1.7	Versioni Simili del Dispositivo Disponibili sul Mercato	18
+1.8	Destinazione d’Uso	19
+1.8.1	Indicazioni Mediche	21
+1.8.2	Indicazioni d’Uso NON Mediche (ES: Estetiche ecc.) SE DEL CASO	21
+1.8.3	Caratterizzazione dei Pazienti	21
+1.8.4	Utilizzatore Previsto	21
+1.9	Siti d’Uso Previsti	24
+1.9.1	Ambiente di Utilizzo	24
+1.9.2	Conservazione	25
+1.10	Tempi di Utilizzo del Dispositivo	25
+1.11	Scadenza d’Uso	25
+1.12	Vita Utile del Dispositivo	26
+1.13	Meccanismo d’Azione e Interazione con l’Organismo Umano	26
+1.13.1	Come il Dispositivo Raggiunge lo Scopo Previsto	26
+1.14	Principali Elementi Funzionali	26
+1.15	Materie Prime	26
+1.16	Specifiche Tecniche	28
+1.17	Classificazione	29
+1.17.1	Classificazione secondo il regolamento (ue) 2017/745	30
+1.17.2	Razionale sulla Classificazione	30
+2	Informazioni per gli Utenti	38
+2.1	Market Target	38
+2.2	Piano di Etichettatura	39
+2.2.1	Etichette Poste sull’Imballo Principale	39
+2.3	Istruzioni per l’Uso	40
+2.3.1	Istruzioni per l’Uso Digitali	40
+2.4	Manuale di Servizio	41
+3	Progettazione e Fabbricazione	42
+3.1	Identificazione dei Siti di Progettazione e Fabbricazione	42
+3.2	Fasi della
+... (content truncated)
+"""
+
+------------------------------------------------------------
+
+--- File #5 ---
+Filename: STED - SiglaNomeDisp_Rev00.0_EN.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\01_STED\STED - SiglaNomeDisp_Rev00.0_EN.docx
+Extracted Title(s)/Heading(s): Frontispiece; Date and signature for Approval; SUmmary
+Content Preview:
+"""
+Frontispiece
+
+Technical Documentation
+in conformity with Regulation (EU) 2017/745 
+as Modified by Regulation (EU) 2020/561 
+of the device/s | of the family of devices
+Device Name | Family
+of models
+Model X, Model Y e Model Z
+
+Date and signature for Approval
+
+
+
+SUmmary
+Frontispiece	1
+Date and signature for Approval	1
+SUmmary	2
+Revision table	4
+Certification procedure	4
+1	Device description and specification	9
+1.1	Models and variants	9
+1.1.1	Model TradeName.X	9
+1.2	Components	13
+1.2.1	Functional parts	13
+1.2.2	Operative Functional parts	13
+1.2.3	Components of consumption	13
+1.2.4	Personal protective equipment	13
+1.3	Supply	14
+1.4	Association with other devices	14
+1.5	Innovative features	15
+1.6	Previous generations of the device	15
+1.6.1	Device evolution	15
+1.7	Similar versions of the device available on the market	18
+1.8	Intended use	19
+1.8.1	Medical Indications	21
+1.8.2	Non Medical Indications (Ex: Aesthetic ecc.) SE DEL CASO	21
+1.8.3	Patient Characterization	21
+1.8.4	Intended user	21
+1.9	Intended use sites	24
+1.9.1	Enivronment for use	24
+1.9.2	Preservation	25
+1.10	Duration of use of the device	25
+1.11	Expiration date	25
+1.12	Useful life of the device	26
+1.13	Mechanism of action and interaction with the human organism	26
+1.13.1	How the device achieves its intended purpose	26
+1.14	Main functional components	26
+1.15	Raw materials	26
+1.16	Technical specifications	28
+1.17	Classification	29
+1.17.1	Classification according to regulation (eu) 2017/745	30
+1.17.2	Rational for the Classification	30
+2	Information for the user	38
+2.1	Market Target	38
+2.2	Labeling Plan	39
+2.2.1	Labels placed on the main packaging	39
+2.3	Instruction for use	40
+2.3.1	Digital instruction for use	40
+2.4	Service manual	41
+3	Design and manufacturing	42
+3.1	Identification of design and manufacturing sites	42
+3.2	Design phases	42
+3.3	Manufacturing	44
+3.3.1	Manufacturing and Testing procedures and instructions	44
+3.3.2	Special environmental conditions for Manufacturing	45
+3.3.3	Ensuring the accuracy of me
+... (content truncated)
+"""
+
+------------------------------------------------------------
+
+--- File #6 ---
+Filename: STED - SiglaNomeDisp_Rev00.1_EN.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\01_STED\STED - SiglaNomeDisp_Rev00.1_EN.docx
+Extracted Title(s)/Heading(s): Frontispiece; Date and signature for Approval; Summary
+Content Preview:
+"""
+Frontispiece
+
+Technical Documentation
+in conformity with Regulation (EU) 2017/745 
+as Modified by Regulation (EU) 2020/561 
+of the device/s | of the family of devices
+Device Name | Family
+of models
+Model X, Model Y e Model Z
+
+Date and signature for Approval
+
+
+
+Summary
+Frontispiece	1
+Date and signature for Approval	1
+Summary	2
+Revision table	4
+Certification procedure	4
+1	Device description and specification	9
+1.1	Models and variants	9
+1.1.1	Model TradeName.X	9
+1.2	Components	13
+1.2.1	Functional parts	13
+1.2.2	Operative Functional parts	13
+1.2.3	Components of consumption	13
+1.2.4	Personal protective equipment	13
+1.3	Supply	14
+1.4	Association with other devices	14
+1.5	Innovative features	15
+1.6	Previous generations of the device	15
+1.6.1	Device evolution	15
+1.7	Similar versions of the device available on the market	18
+1.8	Qualification of the product	18
+1.9	Intended use	20
+1.9.1	Medical Indications	22
+1.9.2	Non Medical Indications (Ex: Aesthetic ecc.) SE DEL CASO	22
+1.9.3	Patient Characterization	22
+1.9.4	Intended user	22
+1.10	Intended use sites	25
+1.10.1	Enivronment for use	25
+1.10.2	Preservation	26
+1.11	Duration of use of the device	26
+1.12	Expiration date	26
+1.13	Useful life of the device	27
+1.14	Mechanism of action and interaction with the human organism	27
+1.14.1	How the device achieves its intended purpose	27
+1.15	Main functional components	27
+1.16	Raw materials	27
+1.17	Technical specifications	29
+1.18	Classification	30
+1.18.1	Classification according to regulation (eu) 2017/745	31
+1.18.2	Rational for the Classification	31
+2	Information for the user	39
+2.1	Market Target	39
+2.2	Labeling Plan	40
+2.2.1	Labels placed on the main packaging	40
+2.3	Instruction for use	41
+2.3.1	Digital instruction for use	41
+2.4	Service manual	42
+3	Design and manufacturing	43
+3.1	Identification of design and manufacturing sites	43
+3.2	Design phases	43
+3.3	Manufacturing	45
+3.3.1	Manufacturing and Testing procedures and instructions	45
+3.3.2	Special environmental conditions for Manufacturi
+... (content truncated)
+"""
+
+------------------------------------------------------------
+
+--- File #7 ---
+Filename: STED - SiglaNomeDisp_Rev00.1_IT.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\01_STED\STED - SiglaNomeDisp_Rev00.1_IT.docx
+Extracted Title(s)/Heading(s): Frontespizio; Data e firma per l'approvazione; Sommario
+Content Preview:
+"""
+Frontespizio
+
+Documentazione tecnica
+conforme al regolamento (UE) 2017/745 come modificato dal regolamento (UE) 2020/561 
+del/i dispositivo/i | della famiglia di dispositivi
+Nome dispositivo | Famiglia
+di modelliModel X, Model Y e Model Z
+
+Data e firma per l'approvazione
+
+
+
+Sommario
+Frontespizio	1
+Data e firma per l'approvazione	1
+Sommario	2
+Tabella revisioni	4
+Procedura di certificazione	4
+1	Descrizione e specifiche del dispositivo	9
+1.1	Modelli e varianti	9
+1.1.1	Modello TradeName.X	9
+1.2	Componenti	13
+1.2.1	Parti funzionali	13
+1.2.2	Parti funzionali operative	13
+1.2.3	Componenti del consumo	13
+1.2.4	Dispositivi di protezione individuale	13
+1.3	Dotazione	14
+1.4	Associazione con altri dispositivi	14
+1.5	Caratteristiche innovative	15
+1.6	Generazioni precedenti del dispositivo	15
+1.6.1	Evoluzione dei dispositivi	15
+1.7	Versioni simili del dispositivo disponibili sul mercato	18
+1.8	Qualifica del prodotto	18
+1.9	Destinazione d'uso	20
+1.9.1	Indicazioni mediche	22
+1.9.2	Indicazioni Non Mediche (Es: Estetiche ecc.) SE DEL CASO	22
+1.9.3	Caratterizzazione del paziente	22
+1.9.4	Utilizzatore previsto	22
+1.10	Siti d'uso previsti	25
+1.10.1	Ambiente per l'utilizzo	25
+1.10.2	Conservazione	26
+1.11	Durata di utilizzo del dispositivo	26
+1.12	Data di scadenza	26
+1.13	Vita utile del dispositivo	27
+1.14	Meccanismo d'azione e interazione con l'organismo umano	27
+1.14.1	In che modo il dispositivo raggiunge lo scopo previsto	27
+1.15	Principali componenti funzionali	27
+1.16	Materie	27
+1.17	Specifiche tecniche	29
+1.18	Classificazione	30
+1.18.1	Classificazione secondo il regolamento (ue) 2017/745	31
+1.18.2	Razionale per la classificazione	31
+2	Informazioni per l'utente	39
+2.1	Target di mercato	39
+2.2	Piano di etichettatura	40
+2.2.1	Etichette poste sull'imballaggio principale	40
+2.3	Istruzioni per l'uso	41
+2.3.1	Istruzioni digitali per l'uso	41
+2.4	Manuale di servizio	42
+3	Progettazione e produzione	43
+3.1	Identificazione dei siti di progettazione e produzione	43
+3.2	Fasi di progettazione	43
+
+... (content truncated)
+"""
+
+------------------------------------------------------------
+
+--- File #8 ---
+Filename: STED = Summary of Technical Documentation.txt
+Type: .txt
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\01_STED\STED = Summary of Technical Documentation.txt
+Notes: [Empty text file]
+
+------------------------------------------------------------
+
+--- File #9 ---
+Filename: Format IFU_EN_Rev00.1.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\02_Info per Utenti\Format IFU_EN_Rev00.1.docx
+Extracted Title(s)/Heading(s): Summary; Information about this Document; Introduction
+Content Preview:
+"""
+IMMAGINE DEL DISPOSITIVO (NON OBBLIGATORIO)
+
+NOME DISPOSITIVO
+Instruction for Use
+
+The device is manufactured by NOME ORGANIZZAZIONE
+
+Issuing date: 
+
+
+
+
+
+
+
+Summary
+Summary	2
+1	Information about this Document	4
+2	Introduction	5
+3	Intended Use	5
+3.1	Clinical Investigation Study	5
+3.2	Personnel Enabled to Use the Device	6
+3.3	Patients Characterization	6
+3.4	Contraindication	6
+3.5	Side Effects and Warnings	8
+3.6	Mechanism of Action and Interaction with the Human Body	9
+4	Device Description	11
+4.1	Accessories Supplied	11
+4.1.1	Consumable Components	11
+4.2	Joint Use with Other Medical Devices or Accessories or Devices	11
+4.2.1	Consumable Components	11
+4.3	Identification of Special Substance or Material	11
+4.3.1	Medicinal Substance Identification	11
+4.3.2	Material of Biological Origin Identification	12
+4.3.3	Carcinogenic, Mutagenic or Toxic Substance Identification	12
+4.4	Proximity to Other Equipments	12
+4.5	Labeling	13
+4.5.1	Symbols Explanation	16
+5	Fulfillments on the Device before Use	17
+5.1	Sterilization	17
+5.2	Assembly	17
+5.3	Calibration	17
+5.4	Other	17
+6	Special Requirements	18
+6.1	Special Facilities	18
+6.2	Special Training	18
+6.3	Manage Sterile Items	18
+6.4	Manage of Reusable Items/Accessories/Devices	18
+6.5	Other	18
+7	Warning about Hazardous Radiation Emission	19
+8	Electromagnetic Compatibility According to EN 60601-1-2:2015	20
+9	Installation	25
+9.1	Connections	26
+10	Maintenance	27
+10.1	Device Cleaning	27
+10.2	Applied Parts Cleaning	27
+10.3	Decommissioning	28
+10.4	Special Maintenance Operation	28
+10.4.1	Fuses Replacement	28
+10.4.2	Water Replacement	29
+10.4.3	Filter Replacement	29
+10.4.4	Other	29
+10.5	Special Storage and/or Handling	29
+11	Precautions for Use	30
+11.1	Device Security Systems	30
+11.2	Application Limits to Notify	30
+11.3	Special Precautions for Non-Clinical Users	31
+12	Method of Use	32
+12.1	Power On/Off	32
+12.2	General Operating Indications	32
+12.3	Treatment delivery	32
+13	Work and Storage Environment	33
+14	Trouble Shooting	33
+15	Indications for Corre
+... (content truncated)
+"""
+
+------------------------------------------------------------
+
+--- File #10 ---
+Filename: Format IFU_IT_Rev00.2.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\02_Info per Utenti\Format IFU_IT_Rev00.2.docx
+Extracted Title(s)/Heading(s): Sommario; Informazioni sul Manuale d’Uso; Introduzione
+Content Preview:
+"""
+IMMAGINE DEL DISPOSITIVO (NON OBBLIGATORIO)
+
+NOME DISPOSITIVO
+MANUALE D’USO e MANUTENZIONE
+
+Il dispositivo è prodotto da: NOME ORGANIZZAZIONE
+Data di emissione: 
+
+
+
+
+
+Sommario
+Sommario	2
+1	Informazioni sul Manuale d’Uso	4
+2	Introduzione	5
+3	D’estinazione d’Uso	5
+3.1	Studio di Indagine Clinica	5
+3.2	Generalità	5
+3.2.1	Indicazioni Mediche	5
+3.2.2	Indicazioni d’Uso NON Mediche (ES: Estetiche ecc.) SE DEL CASO	5
+3.2.3	Caratterizzazione dei Pazienti	6
+3.2.4	Utilizzatore Previsto	6
+3.3	Sintesi Relativa alla Sicurezza e alla Prestazione Clinica	7
+3.4	Siti d’Uso Previsti	8
+3.4.1	Ambiente di Utilizzo	8
+3.4.2	Conservazione	9
+3.5	Tempi di Utilizzo del Dispositivo	9
+3.6	Scadenza d’Uso	9
+3.7	Vita Utile del Dispositivo	10
+3.8	Meccanismo d’azione e Interazione con l’Organismo Umano	11
+4	Descrizione del Dispositivo	13
+4.1	Lista degli Accessori in Dotazione	13
+4.1.1	Componenti Deteriorabili	13
+4.2	Associazione con altri Dispositivi / Accessori / Dispositivi Medici	13
+4.2.1	Componenti Deteriorabili	13
+4.3	Identificazione di Sostanze o Materiali speciali	14
+4.3.1	Identificazione della Sostanza medicinale	14
+4.3.2	Identificazione dei Materiali di Origine biologica	14
+4.3.3	Identificazione delle Sostanze Cancerogene, Mutagene, Tossiche	14
+4.4	Etichettatura	15
+4.4.1	Spiegazione dei Simboli	17
+5	Adempimenti Prima dell’Uso	19
+5.1	Sterilizzazione	19
+5.2	Assemblaggio Finale	19
+5.3	Regolazione / Calibrazione / Taratura	19
+5.4	Altro	19
+6	Requisiti Speciali	20
+6.1	Strutture / Attrezzature Particolari	20
+6.2	Formazione Straordinaria	20
+6.3	Gestione degli Articoli Sterili	20
+6.4	Gestione degli Articoli / Accessori / Dispositivi riutilizzabili	20
+6.5	Componenti Monouso	20
+6.6	Altro	21
+7	Avvertenza sulle Emissioni di Radiazioni Pericolose	21
+8	Compatibilità Elettromagnetica secondo la Norma EN 60601-1-2:2015	22
+9	Installazione	27
+9.1	Connessioni	28
+10	Manutenzione	29
+10.1	Pulizia del Dispositivo	29
+10.2	Pulizia delle Parti Applicate	29
+10.3	Messa Fuori Servizio	30
+10.4	Operazioni Speciali di Manu
+... (content truncated)
+"""
+
+------------------------------------------------------------
+
+--- File #11 ---
+Filename: Riepilogo Gruppo e Classe.txt
+Type: .txt
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\02_Info per Utenti\§ CEM\Riepilogo Gruppo e Classe.txt
+Extracted Title(s)/Heading(s): Gruppo 1 = RF per il suo funzionamento interno
+Content Preview:
+"""
+Gruppo 1 = RF per il suo funzionamento interno
+Gruppo 2 = RF per svolgere la funzione prevista
+
+Classe A = Ambienti non residenziali/domestici
+Classe B = Ambienti domestici
+"""
+
+------------------------------------------------------------
+
+--- File #12 ---
+Filename: Tabelle CEM Gruppo 1 Classe A_EN_Rev00 - x IFU.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\02_Info per Utenti\§ CEM\Tabelle CEM Gruppo 1 Classe A_EN_Rev00 - x IFU.docx
+Extracted Title(s)/Heading(s): ELECTROMAGNETIC COMPATIBILITY 
+ACCORDING TO EN 60601-1-2:2015 + A1:2021
+Content Preview:
+"""
+ELECTROMAGNETIC COMPATIBILITY 
+ACCORDING TO EN 60601-1-2:2015 + A1:2021
+The device requires special precautions regarding EMC (Electromagnetic Compatibility) and must be installed and put into service in accordance with the EMC information contained in the accompanying documents.
+Portable and mobile radiocommunication equipment can affect the operation of the device.
+The use of accessories, transducers and cables other than those specified, except for those sold by the manufacturer as spare parts for internal components, can cause an increase in emissions and a decrease in immunity.
+The device or system must not be used near other equipment and, if it is necessary to use it near other equipment, the device must be observed to check normal operation in the configuration in which it is used.
+The device has been tested and found to comply with the emission and immunity limits of the device pursuant to the EN 60601-1-2:2015 + A1:2021 standard. These limits are designed to ensure adequate protection against harmful interference in a typical medical installation. However, there is no guarantee that interference will not occur in a particular installation. If the device, interacting with another device, causes or receives detectable interference, the user is invited to limit the interference by adopting one or more of the following measures:
+Reorient or relocate the receiving device;
+Increase the distance between the device;
+Connect the device into an outlet on a circuit different from the device or devices causing the interference;
+Contact the manufacturer or local technician for assistance.
+"""
+
+------------------------------------------------------------
+
+--- File #13 ---
+Filename: Tabelle CEM Gruppo 1 Classe A_EN_Rev00.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\02_Info per Utenti\§ CEM\Tabelle CEM Gruppo 1 Classe A_EN_Rev00.docx
+Extracted Title(s)/Heading(s): ELECTROMAGNETIC COMPATIBILITY 
+ACCORDING TO EN 60601-1-2:2015 + A1:2021
+Content Preview:
+"""
+ELECTROMAGNETIC COMPATIBILITY 
+ACCORDING TO EN 60601-1-2:2015 + A1:2021
+The device requires special precautions regarding EMC (Electromagnetic Compatibility) and must be installed and put into service in accordance with the EMC information contained in the accompanying documents.
+Portable and mobile radiocommunication equipment can affect the operation of the device.
+The use of accessories, transducers and cables other than those specified, except for those sold by the manufacturer as spare parts for internal components, can cause an increase in emissions and a decrease in immunity.
+The device or system must not be used near other equipment and, if it is necessary to use it near other equipment, the device must be observed to check normal operation in the configuration in which it is used.
+The device has been tested and found to comply with the emission and immunity limits of the device pursuant to the EN 60601-1-2:2015 + A1:2021 standard. These limits are designed to ensure adequate protection against harmful interference in a typical medical installation. However, there is no guarantee that interference will not occur in a particular installation. If the device, interacting with another device, causes or receives detectable interference, the user is invited to limit the interference by adopting one or more of the following measures:
+Reorient or relocate the receiving device;
+Increase the distance between the device;
+Connect the device into an outlet on a circuit different from the device or devices causing the interference;
+Contact the manufacturer or local technician for assistance.
+"""
+
+------------------------------------------------------------
+
+--- File #14 ---
+Filename: Tabelle CEM Gruppo 1 Classe A_ITA_Rev00 - x IFU.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\02_Info per Utenti\§ CEM\Tabelle CEM Gruppo 1 Classe A_ITA_Rev00 - x IFU.docx
+Extracted Title(s)/Heading(s): COMPATIBILITÀ ELETTROMAGNETICA 
+SECONDO LA NORMA EN 60601-1-2:2015 + A1:2021
+Content Preview:
+"""
+COMPATIBILITÀ ELETTROMAGNETICA 
+SECONDO LA NORMA EN 60601-1-2:2015 + A1:2021
+Il dispositivo necessita di particolari precauzioni riguardanti la CEM (Compatibilità Elettromagnetica) e deve essere installato e messo in servizio in conformità alle informazioni CEM contenute nei documenti di accompagnamento.
+Gli apparecchi di radiocomunicazione portatili e mobili possono influenzare il funzionamento del dispositivo.
+L’uso di accessori, trasduttori e cavi diversi da quelli specificati, ad eccezione di quelli venduti dal costruttore come parti di ricambio per componenti interni, può causare un aumento delle emissioni e una diminuzione dell’immunità.
+Il dispositivo o il sistema non deve essere usato in prossimità di altri apparecchi e, se è necessario usarlo vicino altri apparecchi, il dispositivo deve essere osservato per controllare il funzionamento normale nella configurazione in cui è usato.
+Il dispositivo è stato testato e riscontrato conforme ai limiti di emissione e immunità degli apparecchi elettromedicali ai sensi della norma EN 60601-1-2:2015 + A1:2021. Tali limiti sono concepiti per assicurare un'adeguata protezione contro interferenze nocive in una tipica installazione medica. Non esiste comunque nessuna garanzia che non si verifichino interferenze in una particolare installazione. Se il dispositivo, interagendo con un altro dispositivo, causa o riceve interferenze rilevabili, l'utilizzatore è invitato a limitare le interferenze adottando una o più delle seguenti misure:
+Riorientare o riposizionare il dispositivo ricevente;
+Aumentare la distanza che separa i dispositivi;
+Collegare il dispositivo a una presa di un circuito diverso dal o dai dispositivi che causano l'interferenza;
+Rivolgersi al produttore o al tecnico locale per assistenza.
+"""
+
+------------------------------------------------------------
+
+--- File #15 ---
+Filename: Tabelle CEM Gruppo 1 Classe A_ITA_Rev00.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\02_Info per Utenti\§ CEM\Tabelle CEM Gruppo 1 Classe A_ITA_Rev00.docx
+Extracted Title(s)/Heading(s): COMPATIBILITÀ ELETTROMAGNETICA 
+SECONDO LA NORMA EN 60601-1-2:2015 + A1:2021
+Content Preview:
+"""
+COMPATIBILITÀ ELETTROMAGNETICA 
+SECONDO LA NORMA EN 60601-1-2:2015 + A1:2021
+Il dispositivo necessita di particolari precauzioni riguardanti la CEM (Compatibilità Elettromagnetica) e deve essere installato e messo in servizio in conformità alle informazioni CEM contenute nei documenti di accompagnamento.
+Gli apparecchi di radiocomunicazione portatili e mobili possono influenzare il funzionamento del dispositivo.
+L’uso di accessori, trasduttori e cavi diversi da quelli specificati, ad eccezione di quelli venduti dal costruttore come parti di ricambio per componenti interni, può causare un aumento delle emissioni e una diminuzione dell’immunità.
+Il dispositivo o il sistema non deve essere usato in prossimità di altri apparecchi e, se è necessario usarlo vicino altri apparecchi, il dispositivo deve essere osservato per controllare il funzionamento normale nella configurazione in cui è usato.
+Il dispositivo è stato testato e riscontrato conforme ai limiti di emissione e immunità degli apparecchi elettromedicali ai sensi della norma EN 60601-1-2:2015 + A1:2021. Tali limiti sono concepiti per assicurare un'adeguata protezione contro interferenze nocive in una tipica installazione medica. Non esiste comunque nessuna garanzia che non si verifichino interferenze in una particolare installazione. Se il dispositivo, interagendo con un altro dispositivo, causa o riceve interferenze rilevabili, l'utilizzatore è invitato a limitare le interferenze adottando una o più delle seguenti misure:
+Riorientare o riposizionare il dispositivo ricevente;
+Aumentare la distanza che separa i dispositivi;
+Collegare il dispositivo a una presa di un circuito diverso dal o dai dispositivi che causano l'interferenza;
+Rivolgersi al produttore o al tecnico locale per assistenza.
+"""
+
+------------------------------------------------------------
+
+--- File #16 ---
+Filename: Tabelle CEM Gruppo 1 Classe B_EN_Rev00 - x IFU.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\02_Info per Utenti\§ CEM\Tabelle CEM Gruppo 1 Classe B_EN_Rev00 - x IFU.docx
+Extracted Title(s)/Heading(s): ELECTROMAGNETIC COMPATIBILITY 
+ACCORDING TO EN 60601-1-2:2015 + A1:2021
+Content Preview:
+"""
+ELECTROMAGNETIC COMPATIBILITY 
+ACCORDING TO EN 60601-1-2:2015 + A1:2021
+The device requires special precautions regarding EMC (Electromagnetic Compatibility) and must be installed and put into service in accordance with the EMC information contained in the accompanying documents.
+Portable and mobile radiocommunication equipment can affect the operation of the device.
+The use of accessories, transducers and cables other than those specified, except for those sold by the manufacturer as spare parts for internal components, can cause an increase in emissions and a decrease in immunity.
+The device or system must not be used near other equipment and, if it is necessary to use it near other equipment, the device must be observed to check normal operation in the configuration in which it is used.
+The device has been tested and found to comply with the emission and immunity limits of the device pursuant to the EN 60601-1-2:2015 + A1:2021 standard. These limits are designed to ensure adequate protection against harmful interference in a typical medical installation. However, there is no guarantee that interference will not occur in a particular installation. If the device, interacting with another device, causes or receives detectable interference, the user is invited to limit the interference by adopting one or more of the following measures:
+Reorient or relocate the receiving device;
+Increase the distance between the device;
+Connect the device into an outlet on a circuit different from the device or devices causing the interference;
+Contact the manufacturer or local technician for assistance.
+"""
+
+------------------------------------------------------------
+
+--- File #17 ---
+Filename: Tabelle CEM Gruppo 1 Classe B_EN_Rev00.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\02_Info per Utenti\§ CEM\Tabelle CEM Gruppo 1 Classe B_EN_Rev00.docx
+Extracted Title(s)/Heading(s): ELECTROMAGNETIC COMPATIBILITY 
+ACCORDING TO EN 60601-1-2:2015 + A1:2021
+Content Preview:
+"""
+ELECTROMAGNETIC COMPATIBILITY 
+ACCORDING TO EN 60601-1-2:2015 + A1:2021
+The device requires special precautions regarding EMC (Electromagnetic Compatibility) and must be installed and put into service in accordance with the EMC information contained in the accompanying documents.
+Portable and mobile radiocommunication equipment can affect the operation of the device.
+The use of accessories, transducers and cables other than those specified, except for those sold by the manufacturer as spare parts for internal components, can cause an increase in emissions and a decrease in immunity.
+The device or system must not be used near other equipment and, if it is necessary to use it near other equipment, the device must be observed to check normal operation in the configuration in which it is used.
+The device has been tested and found to comply with the emission and immunity limits of the device pursuant to the EN 60601-1-2:2015 + A1:2021 standard. These limits are designed to ensure adequate protection against harmful interference in a typical medical installation. However, there is no guarantee that interference will not occur in a particular installation. If the device, interacting with another device, causes or receives detectable interference, the user is invited to limit the interference by adopting one or more of the following measures:
+Reorient or relocate the receiving device;
+Increase the distance between the device;
+Connect the device into an outlet on a circuit different from the device or devices causing the interference;
+Contact the manufacturer or local technician for assistance.
+"""
+
+------------------------------------------------------------
+
+--- File #18 ---
+Filename: Tabelle CEM Gruppo 1 Classe B_ITA_Rev00 - x IFU.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\02_Info per Utenti\§ CEM\Tabelle CEM Gruppo 1 Classe B_ITA_Rev00 - x IFU.docx
+Extracted Title(s)/Heading(s): COMPATIBILITÀ ELETTROMAGNETICA 
+SECONDO LA NORMA EN 60601-1-2:2015 + A1:2021
+Content Preview:
+"""
+COMPATIBILITÀ ELETTROMAGNETICA 
+SECONDO LA NORMA EN 60601-1-2:2015 + A1:2021
+Il dispositivo necessita di particolari precauzioni riguardanti la CEM (Compatibilità Elettromagnetica) e deve essere installato e messo in servizio in conformità alle informazioni CEM contenute nei documenti di accompagnamento.
+Gli apparecchi di radiocomunicazione portatili e mobili possono influenzare il funzionamento del dispositivo.
+L’uso di accessori, trasduttori e cavi diversi da quelli specificati, ad eccezione di quelli venduti dal costruttore come parti di ricambio per componenti interni, può causare un aumento delle emissioni e una diminuzione dell’immunità.
+Il dispositivo o il sistema non deve essere usato in prossimità di altri apparecchi e, se è necessario usarlo vicino altri apparecchi, il dispositivo deve essere osservato per controllare il funzionamento normale nella configurazione in cui è usato.
+Il dispositivo è stato testato e riscontrato conforme ai limiti di emissione e immunità degli apparecchi elettromedicali ai sensi della norma EN 60601-1-2:2015 + A1:2021. Tali limiti sono concepiti per assicurare un'adeguata protezione contro interferenze nocive in una tipica installazione medica. Non esiste comunque nessuna garanzia che non si verifichino interferenze in una particolare installazione. Se il dispositivo, interagendo con un altro dispositivo, causa o riceve interferenze rilevabili, l'utilizzatore è invitato a limitare le interferenze adottando una o più delle seguenti misure:
+Riorientare o riposizionare il dispositivo ricevente;
+Aumentare la distanza che separa i dispositivi;
+Collegare il dispositivo a una presa di un circuito diverso dal o dai dispositivi che causano l'interferenza;
+Rivolgersi al produttore o al tecnico locale per assistenza.
+"""
+
+------------------------------------------------------------
+
+--- File #19 ---
+Filename: Tabelle CEM Gruppo 1 Classe B_ITA_Rev00.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\02_Info per Utenti\§ CEM\Tabelle CEM Gruppo 1 Classe B_ITA_Rev00.docx
+Extracted Title(s)/Heading(s): COMPATIBILITÀ ELETTROMAGNETICA 
+SECONDO LA NORMA EN 60601-1-2:2015 + A1:2021
+Content Preview:
+"""
+COMPATIBILITÀ ELETTROMAGNETICA 
+SECONDO LA NORMA EN 60601-1-2:2015 + A1:2021
+Il dispositivo necessita di particolari precauzioni riguardanti la CEM (Compatibilità Elettromagnetica) e deve essere installato e messo in servizio in conformità alle informazioni CEM contenute nei documenti di accompagnamento.
+Gli apparecchi di radiocomunicazione portatili e mobili possono influenzare il funzionamento del dispositivo.
+L’uso di accessori, trasduttori e cavi diversi da quelli specificati, ad eccezione di quelli venduti dal costruttore come parti di ricambio per componenti interni, può causare un aumento delle emissioni e una diminuzione dell’immunità.
+Il dispositivo o il sistema non deve essere usato in prossimità di altri apparecchi e, se è necessario usarlo vicino altri apparecchi, il dispositivo deve essere osservato per controllare il funzionamento normale nella configurazione in cui è usato.
+Il dispositivo è stato testato e riscontrato conforme ai limiti di emissione e immunità degli apparecchi elettromedicali ai sensi della norma EN 60601-1-2:2015 + A1:2021. Tali limiti sono concepiti per assicurare un'adeguata protezione contro interferenze nocive in una tipica installazione medica. Non esiste comunque nessuna garanzia che non si verifichino interferenze in una particolare installazione. Se il dispositivo, interagendo con un altro dispositivo, causa o riceve interferenze rilevabili, l'utilizzatore è invitato a limitare le interferenze adottando una o più delle seguenti misure:
+Riorientare o riposizionare il dispositivo ricevente;
+Aumentare la distanza che separa i dispositivi;
+Collegare il dispositivo a una presa di un circuito diverso dal o dai dispositivi che causano l'interferenza;
+Rivolgersi al produttore o al tecnico locale per assistenza.
+"""
+
+------------------------------------------------------------
+
+--- File #20 ---
+Filename: Tabelle CEM Gruppo 2 Classe A_EN_Rev00 - x IFU.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\02_Info per Utenti\§ CEM\Tabelle CEM Gruppo 2 Classe A_EN_Rev00 - x IFU.docx
+Extracted Title(s)/Heading(s): ELECTROMAGNETIC COMPATIBILITY 
+ACCORDING TO EN 60601-1-2:2015 + A1:2021
+Content Preview:
+"""
+ELECTROMAGNETIC COMPATIBILITY 
+ACCORDING TO EN 60601-1-2:2015 + A1:2021
+The device requires special precautions regarding EMC (Electromagnetic Compatibility) and must be installed and put into service in accordance with the EMC information contained in the accompanying documents.
+Portable and mobile radiocommunication equipment can affect the operation of the device.
+The use of accessories, transducers and cables other than those specified, except for those sold by the manufacturer as spare parts for internal components, can cause an increase in emissions and a decrease in immunity.
+The device or system must not be used near other equipment and, if it is necessary to use it near other equipment, the device must be observed to check normal operation in the configuration in which it is used.
+The device has been tested and found to comply with the emission and immunity limits of the device pursuant to the EN 60601-1-2:2015 + A1:2021 standard. These limits are designed to ensure adequate protection against harmful interference in a typical medical installation. However, there is no guarantee that interference will not occur in a particular installation. If the device, interacting with another device, causes or receives detectable interference, the user is invited to limit the interference by adopting one or more of the following measures:
+Reorient or relocate the receiving device;
+Increase the distance between the device;
+Connect the device into an outlet on a circuit different from the device or devices causing the interference;
+Contact the manufacturer or local technician for assistance.
+"""
+
+------------------------------------------------------------
+
+--- File #21 ---
+Filename: Tabelle CEM Gruppo 2 Classe A_EN_Rev00.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\02_Info per Utenti\§ CEM\Tabelle CEM Gruppo 2 Classe A_EN_Rev00.docx
+Extracted Title(s)/Heading(s): ELECTROMAGNETIC COMPATIBILITY 
+ACCORDING TO EN 60601-1-2:2015 + A1:2021
+Content Preview:
+"""
+ELECTROMAGNETIC COMPATIBILITY 
+ACCORDING TO EN 60601-1-2:2015 + A1:2021
+The device requires special precautions regarding EMC (Electromagnetic Compatibility) and must be installed and put into service in accordance with the EMC information contained in the accompanying documents.
+Portable and mobile radiocommunication equipment can affect the operation of the device.
+The use of accessories, transducers and cables other than those specified, except for those sold by the manufacturer as spare parts for internal components, can cause an increase in emissions and a decrease in immunity.
+The device or system must not be used near other equipment and, if it is necessary to use it near other equipment, the device must be observed to check normal operation in the configuration in which it is used.
+The device has been tested and found to comply with the emission and immunity limits of the device pursuant to the EN 60601-1-2:2015 + A1:2021 standard. These limits are designed to ensure adequate protection against harmful interference in a typical medical installation. However, there is no guarantee that interference will not occur in a particular installation. If the device, interacting with another device, causes or receives detectable interference, the user is invited to limit the interference by adopting one or more of the following measures:
+Reorient or relocate the receiving device;
+Increase the distance between the device;
+Connect the device into an outlet on a circuit different from the device or devices causing the interference;
+Contact the manufacturer or local technician for assistance.
+"""
+
+------------------------------------------------------------
+
+--- File #22 ---
+Filename: Tabelle CEM Gruppo 2 Classe A_ITA_Rev00 - x IFU.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\02_Info per Utenti\§ CEM\Tabelle CEM Gruppo 2 Classe A_ITA_Rev00 - x IFU.docx
+Extracted Title(s)/Heading(s): COMPATIBILITÀ ELETTROMAGNETICA 
+SECONDO LA NORMA EN 60601-1-2:2015 + A1:2021
+Content Preview:
+"""
+COMPATIBILITÀ ELETTROMAGNETICA 
+SECONDO LA NORMA EN 60601-1-2:2015 + A1:2021
+Il dispositivo necessita di particolari precauzioni riguardanti la CEM (Compatibilità Elettromagnetica) e deve essere installato e messo in servizio in conformità alle informazioni CEM contenute nei documenti di accompagnamento.
+Gli apparecchi di radiocomunicazione portatili e mobili possono influenzare il funzionamento del dispositivo.
+L’uso di accessori, trasduttori e cavi diversi da quelli specificati, ad eccezione di quelli venduti dal costruttore come parti di ricambio per componenti interni, può causare un aumento delle emissioni e una diminuzione dell’immunità.
+Il dispositivo o il sistema non deve essere usato in prossimità di altri apparecchi e, se è necessario usarlo vicino altri apparecchi, il dispositivo deve essere osservato per controllare il funzionamento normale nella configurazione in cui è usato.
+Il dispositivo è stato testato e riscontrato conforme ai limiti di emissione e immunità degli apparecchi elettromedicali ai sensi della norma EN 60601-1-2:2015 + A1:2021. Tali limiti sono concepiti per assicurare un'adeguata protezione contro interferenze nocive in una tipica installazione medica. Non esiste comunque nessuna garanzia che non si verifichino interferenze in una particolare installazione. Se il dispositivo, interagendo con un altro dispositivo, causa o riceve interferenze rilevabili, l'utilizzatore è invitato a limitare le interferenze adottando una o più delle seguenti misure:
+Riorientare o riposizionare il dispositivo ricevente;
+Aumentare la distanza che separa i dispositivi;
+Collegare il dispositivo a una presa di un circuito diverso dal o dai dispositivi che causano l'interferenza;
+Rivolgersi al produttore o al tecnico locale per assistenza.
+"""
+
+------------------------------------------------------------
+
+--- File #23 ---
+Filename: Tabelle CEM Gruppo 2 Classe A_ITA_Rev00.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\02_Info per Utenti\§ CEM\Tabelle CEM Gruppo 2 Classe A_ITA_Rev00.docx
+Extracted Title(s)/Heading(s): COMPATIBILITÀ ELETTROMAGNETICA 
+SECONDO LA NORMA EN 60601-1-2:2015 + A1:2021
+Content Preview:
+"""
+COMPATIBILITÀ ELETTROMAGNETICA 
+SECONDO LA NORMA EN 60601-1-2:2015 + A1:2021
+Il dispositivo necessita di particolari precauzioni riguardanti la CEM (Compatibilità Elettromagnetica) e deve essere installato e messo in servizio in conformità alle informazioni CEM contenute nei documenti di accompagnamento.
+Gli apparecchi di radiocomunicazione portatili e mobili possono influenzare il funzionamento del dispositivo.
+L’uso di accessori, trasduttori e cavi diversi da quelli specificati, ad eccezione di quelli venduti dal costruttore come parti di ricambio per componenti interni, può causare un aumento delle emissioni e una diminuzione dell’immunità.
+Il dispositivo o il sistema non deve essere usato in prossimità di altri apparecchi e, se è necessario usarlo vicino altri apparecchi, il dispositivo deve essere osservato per controllare il funzionamento normale nella configurazione in cui è usato.
+Il dispositivo è stato testato e riscontrato conforme ai limiti di emissione e immunità degli apparecchi elettromedicali ai sensi della norma EN 60601-1-2:2015 + A1:2021. Tali limiti sono concepiti per assicurare un'adeguata protezione contro interferenze nocive in una tipica installazione medica. Non esiste comunque nessuna garanzia che non si verifichino interferenze in una particolare installazione. Se il dispositivo, interagendo con un altro dispositivo, causa o riceve interferenze rilevabili, l'utilizzatore è invitato a limitare le interferenze adottando una o più delle seguenti misure:
+Riorientare o riposizionare il dispositivo ricevente;
+Aumentare la distanza che separa i dispositivi;
+Collegare il dispositivo a una presa di un circuito diverso dal o dai dispositivi che causano l'interferenza;
+Rivolgersi al produttore o al tecnico locale per assistenza.
+"""
+
+------------------------------------------------------------
+
+--- File #24 ---
+Filename: Tabelle CEM Gruppo 2 Classe B_EN_Rev00 - x IFU.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\02_Info per Utenti\§ CEM\Tabelle CEM Gruppo 2 Classe B_EN_Rev00 - x IFU.docx
+Extracted Title(s)/Heading(s): ELECTROMAGNETIC COMPATIBILITY 
+ACCORDING TO EN 60601-1-2:2015 + A1:2021
+Content Preview:
+"""
+ELECTROMAGNETIC COMPATIBILITY 
+ACCORDING TO EN 60601-1-2:2015 + A1:2021
+The device requires special precautions regarding EMC (Electromagnetic Compatibility) and must be installed and put into service in accordance with the EMC information contained in the accompanying documents.
+Portable and mobile radiocommunication equipment can affect the operation of the device.
+The use of accessories, transducers and cables other than those specified, except for those sold by the manufacturer as spare parts for internal components, can cause an increase in emissions and a decrease in immunity.
+The device or system must not be used near other equipment and, if it is necessary to use it near other equipment, the device must be observed to check normal operation in the configuration in which it is used.
+The device has been tested and found to comply with the emission and immunity limits of the device pursuant to the EN 60601-1-2:2015 + A1:2021 standard. These limits are designed to ensure adequate protection against harmful interference in a typical medical installation. However, there is no guarantee that interference will not occur in a particular installation. If the device, interacting with another device, causes or receives detectable interference, the user is invited to limit the interference by adopting one or more of the following measures:
+Reorient or relocate the receiving device;
+Increase the distance between the device;
+Connect the device into an outlet on a circuit different from the device or devices causing the interference;
+Contact the manufacturer or local technician for assistance.
+"""
+
+------------------------------------------------------------
+
+--- File #25 ---
+Filename: Tabelle CEM Gruppo 2 Classe B_EN_Rev00.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\02_Info per Utenti\§ CEM\Tabelle CEM Gruppo 2 Classe B_EN_Rev00.docx
+Extracted Title(s)/Heading(s): ELECTROMAGNETIC COMPATIBILITY 
+ACCORDING TO EN 60601-1-2:2015 + A1:2021
+Content Preview:
+"""
+ELECTROMAGNETIC COMPATIBILITY 
+ACCORDING TO EN 60601-1-2:2015 + A1:2021
+The device requires special precautions regarding EMC (Electromagnetic Compatibility) and must be installed and put into service in accordance with the EMC information contained in the accompanying documents.
+Portable and mobile radiocommunication equipment can affect the operation of the device.
+The use of accessories, transducers and cables other than those specified, except for those sold by the manufacturer as spare parts for internal components, can cause an increase in emissions and a decrease in immunity.
+The device or system must not be used near other equipment and, if it is necessary to use it near other equipment, the device must be observed to check normal operation in the configuration in which it is used.
+The device has been tested and found to comply with the emission and immunity limits of the device pursuant to the EN 60601-1-2:2015 + A1:2021 standard. These limits are designed to ensure adequate protection against harmful interference in a typical medical installation. However, there is no guarantee that interference will not occur in a particular installation. If the device, interacting with another device, causes or receives detectable interference, the user is invited to limit the interference by adopting one or more of the following measures:
+Reorient or relocate the receiving device;
+Increase the distance between the device;
+Connect the device into an outlet on a circuit different from the device or devices causing the interference;
+Contact the manufacturer or local technician for assistance.
+"""
+
+------------------------------------------------------------
+
+--- File #26 ---
+Filename: Tabelle CEM Gruppo 2 Classe B_ITA_Rev00 - x IFU.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\02_Info per Utenti\§ CEM\Tabelle CEM Gruppo 2 Classe B_ITA_Rev00 - x IFU.docx
+Extracted Title(s)/Heading(s): COMPATIBILITÀ ELETTROMAGNETICA 
+SECONDO LA NORMA EN 60601-1-2:2015 + A1:2021
+Content Preview:
+"""
+COMPATIBILITÀ ELETTROMAGNETICA 
+SECONDO LA NORMA EN 60601-1-2:2015 + A1:2021
+Il dispositivo necessita di particolari precauzioni riguardanti la CEM (Compatibilità Elettromagnetica) e deve essere installato e messo in servizio in conformità alle informazioni CEM contenute nei documenti di accompagnamento.
+Gli apparecchi di radiocomunicazione portatili e mobili possono influenzare il funzionamento del dispositivo.
+L’uso di accessori, trasduttori e cavi diversi da quelli specificati, ad eccezione di quelli venduti dal costruttore come parti di ricambio per componenti interni, può causare un aumento delle emissioni e una diminuzione dell’immunità.
+Il dispositivo o il sistema non deve essere usato in prossimità di altri apparecchi e, se è necessario usarlo vicino altri apparecchi, il dispositivo deve essere osservato per controllare il funzionamento normale nella configurazione in cui è usato.
+Il dispositivo è stato testato e riscontrato conforme ai limiti di emissione e immunità degli apparecchi elettromedicali ai sensi della norma EN 60601-1-2:2015 + A1:2021. Tali limiti sono concepiti per assicurare un'adeguata protezione contro interferenze nocive in una tipica installazione medica. Non esiste comunque nessuna garanzia che non si verifichino interferenze in una particolare installazione. Se il dispositivo, interagendo con un altro dispositivo, causa o riceve interferenze rilevabili, l'utilizzatore è invitato a limitare le interferenze adottando una o più delle seguenti misure:
+Riorientare o riposizionare il dispositivo ricevente;
+Aumentare la distanza che separa i dispositivi;
+Collegare il dispositivo a una presa di un circuito diverso dal o dai dispositivi che causano l'interferenza;
+Rivolgersi al produttore o al tecnico locale per assistenza.
+"""
+
+------------------------------------------------------------
+
+--- File #27 ---
+Filename: Tabelle CEM Gruppo 2 Classe B_ITA_Rev00.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\02_Info per Utenti\§ CEM\Tabelle CEM Gruppo 2 Classe B_ITA_Rev00.docx
+Extracted Title(s)/Heading(s): COMPATIBILITÀ ELETTROMAGNETICA 
+SECONDO LA NORMA EN 60601-1-2:2015 + A1:2021
+Content Preview:
+"""
+COMPATIBILITÀ ELETTROMAGNETICA 
+SECONDO LA NORMA EN 60601-1-2:2015 + A1:2021
+Il dispositivo necessita di particolari precauzioni riguardanti la CEM (Compatibilità Elettromagnetica) e deve essere installato e messo in servizio in conformità alle informazioni CEM contenute nei documenti di accompagnamento.
+Gli apparecchi di radiocomunicazione portatili e mobili possono influenzare il funzionamento del dispositivo.
+L’uso di accessori, trasduttori e cavi diversi da quelli specificati, ad eccezione di quelli venduti dal costruttore come parti di ricambio per componenti interni, può causare un aumento delle emissioni e una diminuzione dell’immunità.
+Il dispositivo o il sistema non deve essere usato in prossimità di altri apparecchi e, se è necessario usarlo vicino altri apparecchi, il dispositivo deve essere osservato per controllare il funzionamento normale nella configurazione in cui è usato.
+Il dispositivo è stato testato e riscontrato conforme ai limiti di emissione e immunità degli apparecchi elettromedicali ai sensi della norma EN 60601-1-2:2015 + A1:2021. Tali limiti sono concepiti per assicurare un'adeguata protezione contro interferenze nocive in una tipica installazione medica. Non esiste comunque nessuna garanzia che non si verifichino interferenze in una particolare installazione. Se il dispositivo, interagendo con un altro dispositivo, causa o riceve interferenze rilevabili, l'utilizzatore è invitato a limitare le interferenze adottando una o più delle seguenti misure:
+Riorientare o riposizionare il dispositivo ricevente;
+Aumentare la distanza che separa i dispositivi;
+Collegare il dispositivo a una presa di un circuito diverso dal o dai dispositivi che causano l'interferenza;
+Rivolgersi al produttore o al tecnico locale per assistenza.
+"""
+
+------------------------------------------------------------
+
+--- File #28 ---
+Filename: INFO Sterilizzazione.txt
+Type: .txt
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\03_Fascicolo di Progettazione\Sterilizzazione - se del caso\INFO Sterilizzazione.txt
+Extracted Title(s)/Heading(s): Estratto dal Regolamento (UE) 2017/745, Allegato II, § 6.2.e)
+Content Preview:
+"""
+Estratto dal Regolamento (UE) 2017/745, Allegato II, § 6.2.e)
+Nel caso dei dispositivi immessi sul mercato 
+sterili o in una determinata condizione microbiologica, 
+una descrizione delle condizioni ambientali relative alle pertinenti fasi di fabbricazione. 
+Se i dispositivi sono immessi sul mercato sterili, 
+una descrizione dei metodi utilizzati, 
+comprese i rapporti di 
+   convalida, 
+   riguardante il confezionamento, 
+   la sterilizzazione e
+   il mantenimento della sterilità. 
+Il rapporto di convalida riguarda 
+i test per la determinazione della carica microbica (bioburden), 
+i test per i pirogeni e, se del caso, 
+i test per la determinazione dei residui di sostanze sterilizzanti.
+
+
+
+          MELZI, Siena 10/03/2017 - Requisiti relativi alla fabbricazione
+Sono presenti le specifiche di particolari processi (es. sterilizzazione, lavaggio, confezionamento, trattamenti termici, superficiali, etc.) 
+e/o le condizioni ambientali particolari (es. la prevenzione da contaminazione da polveri o da cariche elettrostatiche)?
+Sono presenti le verifiche effettuate per le validazioni iniziali (es. bioburden, apirogenicità, residuo agente sterilizzante) 
+e le periodicità dei controlli successivi per il mantenimento dei processi sopra riportati e i relativi test report?
+   CRITICITÀ
+La criticità è legata alla determinazione iniziale delle specifiche di tali processi (es. sterilizzazione, saldatura)
+e/o condizioni ambientali particolari (aree a contaminazione controllata, aree protette dalle scariche elettrostatiche),
+alla loro validazione iniziale (compresa quella del personale coinvolto, se del caso),
+ai controlli periodici (mantenimento delle condizioni) e alla successiva rivalidazione.
+
+
+
+          NOTE by Crocelli
+Nella documentazione da archiviare nella cartella "Sterilizzazione" ci dovranno essere almeno
+   la "Verifica della validazione iniziale sulla Sterilizzazione"
+   e i  "Controlli (e Registrazioni) successivi per la verifica del mantenimento della Steril
+... (content truncated)
+"""
+
+------------------------------------------------------------
+
+--- File #29 ---
+Filename: Test Accuratezza uscite Tecnologie.1.xlsx
+Type: .xlsx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\03_Fascicolo di Progettazione\Test Accuratezza uscite Tecnologie.1.xlsx
+Notes: [Content extraction for .xlsx not yet implemented, but file is present.]
+
+------------------------------------------------------------
+
+--- File #30 ---
+Filename: CS.GR - SiglaNomeDisp_Rev00.0_EN.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\04_RES\CS.GR - SiglaNomeDisp_Rev00.0_EN.docx
+Extracted Title(s)/Heading(s): Frontispiece; Date and signature for approval; Summary
+Content Preview:
+"""
+Frontispiece
+
+
+COMMON SPECIFICATIONS: GENERAL REQUIREMENTS
+For Annex XVI Devices
+
+in conformity with Regulation (EU) 2022/2346
+of the device/s | of the family of devices
+Device Name | Family
+of models
+Model X, Model Y e Model Z
+
+
+Date and signature for approval
+
+
+Summary
+Frontispiece	1
+Date and signature for approval	1
+Summary	2
+Revision table	3
+Conformity of the documentation to the applied standards	1
+Corrispondence of the general safety and performance requirements	4
+Scope	4
+Risk Management	4
+General requirements	4
+Risk Management Planning	6
+Identification of hazards and risk analysis	7
+Risk Evaluation	9
+Risk control and evaluation of residual risks	10
+Risk Management overview	12
+Production and post-production activities	13
+Information for Safety	15
+Label	15
+Instructions for Use	16
+
+Revision table
+
+
+
+Conformity of the documentation to the applied standards
+LEGEND:
+MDR = Medical Device Regulation
+MD = Medical device, understood both in the plural and in the singular, also used for devices that fall under Annex XVI of the MDR.
+MEE = Medical Electrical Equipment 
+Corrispondence of the general safety and performance requirements
+WARNING: <<All applicable declared requirements comply on the basis of the evidence contained in the columns of the applied standards and documentary evidence>>.
+Scope
+This Annex applies to all the devices covered by Annexes II to VII.
+
+... (content truncated)
+"""
+
+------------------------------------------------------------
+
+--- File #31 ---
+Filename: CS.ReqAnnexVI - SiglaNomeDisp_Rev00.0_EN.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\04_RES\CS.ReqAnnexVI - SiglaNomeDisp_Rev00.0_EN.docx
+Extracted Title(s)/Heading(s): Frontispiece; Date and signature for approval; Summary
+Content Preview:
+"""
+Frontispiece
+
+
+COMMON SPECIFICATIONS: REQUIREMENTS
+For the Devices of Annex VI
+
+in conformity with Regulation (EU) 2022/2346
+of the device/s | of the family of devices
+Device Name | Family
+of models
+Model X, Model Y e Model Z
+
+
+Date and signature for approval
+
+
+Summary
+Frontispiece	1
+Date and signature for approval	1
+Summary	2
+Revision table	3
+Conformity of the documentation to the applied standards	1
+Corrispondence of the requirements	4
+Scope	4
+Definitions	4
+Risk Management	5
+Specific Risks	5
+Specific Risk control measures	6
+Information for Safety	11
+Instructions for Use	11
+
+Revision table
+
+
+
+Conformity of the documentation to the applied standards
+LEGEND:
+MDR = Medical Device Regulation
+MD = Medical device, understood both in the plural and in the singular, also used for devices that fall under Annex XVI of the MDR.
+MEE = Medical Electrical Equipment 
+Corrispondence of the requirements
+WARNING: <<All applicable declared requirements comply on the basis of the evidence contained in the columns of the applied standards and documentary evidence>>.
+Scope
+This Annex applies to high intensity electromagnetic radiation (for example infra-red, visible light and ultra-violet) emitting equipment intended for use on the human body, including coherent and non-coherent sources, monochromatic and broad spectrum, such as lasers and intense pulsed light equipment, for skin resurfacing, tattoo or hair removal or other skin treatment, listed in Section 5 of Annex XVI to Regulation (EU) 2017/745.
+For the purposes of this Annex, skin resurfacing includes skin rejuvenation.
+For the purposes of this Annex, tattoo removal includes removal of permanent make-up.
+For the purposes of this Annex, other skin treatments include non-medical treatment of nevi flammei, haemangioma, teleangiectasia, pigmented skin areas, and scars that are not injury within the meaning of Article 2, point (1), second indent, of Regulation (EU) 2017/745. For example, this Annex applies to devices intended to treat 
+... (content truncated)
+"""
+
+------------------------------------------------------------
+
+--- File #32 ---
+Filename: DPI - SiglaNomeDisp_Rev00.0.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\04_RES\DPI - SiglaNomeDisp_Rev00.0.docx
+Extracted Title(s)/Heading(s): Frontespizio; Data e Firma di Approvazione; Sommario
+Content Preview:
+"""
+Frontespizio
+
+Requisiti Essenziali di Salute e di Sicurezza DPI
+Secondo l’Allegato II del Regolamento (UE) 2016/425 (Dispositivi di Protezione Individuale)
+del/i Dispositivo/i | della famiglia dei dispositivi
+Nome Dispositivo | Famiglia
+nei modelli
+Modello X, Modello Y e Modello Z
+
+Data e Firma di Approvazione
+
+
+Sommario
+Frontespizio	1
+Data e Firma di Approvazione	1
+Sommario	2
+Tavola delle Revisioni	3
+1	Conformità della Documentazione alle Norme Applicabili	1
+2	Corrispondenza dei Requisiti Essenziali di Salute e di Sicurezza	2
+2.1	Osservazioni Preliminari	2
+1 - Requisiti di Carattere Generale Applicabili a tutti i DPI	2
+2 - Requisiti Supplementari Comuni a Diversi Tipi di DPI	2
+3 - Requisiti Supplementari Specifici per Rischi Particolari	2
+
+Tavola delle Revisioni
+
+
+
+
+Conformità della Documentazione alle Norme Applicabili
+
+
+Corrispondenza dei Requisiti Essenziali di Salute e di Sicurezza
+Osservazioni Preliminari
+I requisiti essenziali di salute e di sicurezza elencati nel presente regolamento sono inderogabili.
+Gli obblighi relativi ai requisiti essenziali di salute e di sicurezza si applicano soltanto se per il DPI in questione sussiste il rischio corrispondente.
+I requisiti essenziali di salute e di sicurezza sono interpretati e applicati in modo da tenere conto dello stato della tecnica e della prassi al momento della progettazione e della fabbricazione, nonché dei fattori tecnici ed economici, che sono conciliati con un elevato livello di protezione della salute e della sicurezza.
+Il fabbricante effettua una valutazione dei rischi al fine di individuare i rischi che concernono il suo DPI. Deve quindi progettarlo e fabbricarlo tenendo conto di tale valutazione.
+In sede di progettazione e di fabbricazione del DPI, nonché all'atto della redazione delle istruzioni, il fabbricante considera non solo l'uso previsto del DPI, ma anche gli usi ragionevolmente prevedibili. Se del caso, occorre assicurare la salute e la sicurezza delle persone diverse dall'utilizzatore.
+
+1 
+... (content truncated)
+"""
+
+------------------------------------------------------------
+
+--- File #33 ---
+Filename: DPI - SiglaNomeDisp_Rev00.0_EN.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\04_RES\DPI - SiglaNomeDisp_Rev00.0_EN.docx
+Extracted Title(s)/Heading(s): Frontispiece; Date and signature for approval; Summary
+Content Preview:
+"""
+Frontispiece
+
+Essential Health and Safety Requirements PPE
+According to Annex II of Regulation (EU) 2016/425 (Personal Protective Equipment)
+of the device/s | of the family of devices
+Device Name | Family
+of models
+Model X, Model Y e Model Z
+
+Date and signature for approval
+
+
+
+Summary
+Frontispiece	1
+Date and signature for approval	1
+Summary	2
+Revision table	3
+1	Conformity of the documentation to the applied standards	1
+2	Correspondence of the essential health and safety requirements	2
+2.1	Preliminary remarks	2
+1 – General requirements applicable to all PPE	2
+2 – Additional requirements common to different types of PPE	2
+3 – Specific additional requirements for special risks	2
+
+Revision table
+
+
+
+
+Conformity of the documentation to the applied standards
+
+
+Correspondence of the essential health and safety requirements
+Preliminary remarks
+The essential health and safety requirements listed in this Regulation are mandatory.
+The obligations relating to the essential health and safety requirements shall apply only if the corresponding risk exists for the PPE concerned.
+The essential health and safety requirements shall be interpreted and applied in such a way as to take account of the state of the art and practice at the time of design and manufacture, as well as technical and economic factors, which are reconciled with a high level of health and safety protection.
+The manufacturer shall carry out a risk assessment in order to identify the risks affecting his PPE. It must then design and manufacture it taking that assessment into account.
+When designing and manufacturing PPE and when drawing up instructions, the manufacturer shall consider not only the intended use of the PPE but also the uses that can be reasonably foreseen. Where appropriate, the health and safety of persons other than the user shall be ensured.
+
+1 – General requirements applicable to all PPE
+…
+
+2 – Additional requirements common to different types of PPE
+…
+
+3 – Specific additional requirements for speci
+... (content truncated)
+"""
+
+------------------------------------------------------------
+
+--- File #34 ---
+Filename: GSPR - NomeDisp_Rev00 (60601-1-11).docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\04_RES\GSPR - NomeDisp_Rev00 (60601-1-11).docx
+Extracted Title(s)/Heading(s): Frontispiece; Date and signature for approval; Summary
+Content Preview:
+"""
+Frontispiece
+
+
+GENERAL SAFETY AND PERFORMANCE REQUIREMENTS
+in conformity with Regulation (EU) 2017/745 
+as Modified by Regulation (EU) 2020/561 
+of the device/ family of devices
+Nome Disp
+
+
+Date and signature for approval
+
+
+Summary
+Frontispiece	1
+Date and signature for approval	1
+Summary	2
+Revision table	3
+1	Conformity of the documentation to the applied standards	1
+2	Corrispondence of the general safety and performance requirements	3
+Chapter I –  General requirements	3
+Chapter II – Requirements regarding design and manufacture	7
+10 – Chemical, physical and biological properties	7
+11 – Infection and microbial contamination	13
+12 – Device incorporating a substance considered to be a medicinal product and devices that are composed of substances or combination of substances that are absorbed by or locally dispersed in the human body	16
+13 – Devices incorporating materials of biological origin	17
+14 – Construction of devices and interaction with their environment	19
+15 – Devices with a diagnostic or measuring function	23
+16 – Protection against radiation	24
+17 – Electronic programmable systems – devices that incorporate electronic programmable systems and software that are devices in themselves	28
+18 – Active devices and devices connected to them	29
+19 – Particular requirements for active implantable devices	31
+20 – Protection against mechanical and thermal risks	32
+21 – Protection against the risks posed to the patient or user by devices supplying energy or substances	34
+22 – Protection against the risks posed by medical devices intended by the manufacturer for use by lay persons	35
+Chapter III – Requirements regarding the information supplied with the device	37
+23 – Label and instruction for use	37
+
+Revision table
+
+
+
+Conformity of the documentation to the applied standards
+LEGEND:
+MDR = Medical Device Regulation
+MD = Medical device, understood both in the plural and in the singular, also used for devices that fall under Annex XVI of the MDR.
+MEE = Medical Electrical E
+... (content truncated)
+"""
+
+------------------------------------------------------------
+
+--- File #35 ---
+Filename: GSPR - NomeDisp_Rev00.1 (60601-1-11).docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\04_RES\GSPR - NomeDisp_Rev00.1 (60601-1-11).docx
+Extracted Title(s)/Heading(s): Frontispiece; Date and signature for approval; Summary
+Content Preview:
+"""
+Frontispiece
+
+
+GENERAL SAFETY AND PERFORMANCE REQUIREMENTS
+in conformity with Regulation (EU) 2017/745 
+as Modified by Regulation (EU) 2020/561 
+of the device/ family of devices
+Nome Disp
+
+
+Date and signature for approval
+
+
+Summary
+Frontispiece	1
+Date and signature for approval	1
+Summary	2
+Revision table	3
+1	Conformity of the documentation to the applied standards	1
+2	Corrispondence of the general safety and performance requirements	3
+Chapter I –  General requirements	3
+Chapter II – Requirements regarding design and manufacture	7
+10 – Chemical, physical and biological properties	7
+11 – Infection and microbial contamination	13
+12 – Device incorporating a substance considered to be a medicinal product and devices that are composed of substances or combination of substances that are absorbed by or locally dispersed in the human body	16
+13 – Devices incorporating materials of biological origin	17
+14 – Construction of devices and interaction with their environment	19
+15 – Devices with a diagnostic or measuring function	23
+16 – Protection against radiation	24
+17 – Electronic programmable systems – devices that incorporate electronic programmable systems and software that are devices in themselves	28
+18 – Active devices and devices connected to them	29
+19 – Particular requirements for active implantable devices	31
+20 – Protection against mechanical and thermal risks	32
+21 – Protection against the risks posed to the patient or user by devices supplying energy or substances	34
+22 – Protection against the risks posed by medical devices intended by the manufacturer for use by lay persons	35
+Chapter III – Requirements regarding the information supplied with the device	37
+23 – Label and instruction for use	37
+
+Revision table
+
+
+
+Conformity of the documentation to the applied standards
+LEGEND:
+MDR = Medical Device Regulation
+MD = Medical device, understood both in the plural and in the singular, also used for devices that fall under Annex XVI of the MDR.
+MEE = Medical Electrical E
+... (content truncated)
+"""
+
+------------------------------------------------------------
+
+--- File #36 ---
+Filename: GSPR - SiglaNomeDisp_Rev00.0.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\04_RES\GSPR - SiglaNomeDisp_Rev00.0.docx
+Extracted Title(s)/Heading(s): Frontespizio; Data e Firma di Approvazione; Sommario
+Content Preview:
+"""
+Frontespizio
+
+REQUISITI GENERALI DI SICUREZZA E PRESTAZIONE
+Secondo l’Allegato I del Regolamento UE 2017/745
+del/i Dispositivo/i | della famiglia dei dispositivi
+Nome Dispositivo | Famiglia
+nei modelli
+Modello X, Modello Y e Modello Z
+
+Data e Firma di Approvazione
+
+
+Sommario
+Frontespizio	1
+Data e Firma di Approvazione	1
+Sommario	2
+Tavola delle Revisioni	3
+1	Conformità della Documentazione alle Norme Applicabili	1
+2	Corrispondenza dei Requisiti Generali di Sicurezza e Prestazione	4
+CAPO I - REQUISITI GENERALI	4
+CAPO II - REQUISITI RELATIVI ALLA PROGETTAZIONE E ALLA FABBRICAZIONE	7
+10 - CARATTERISTICHE CHIMICHE, FISICHE E BIOLOGICHE	7
+11 - Infezioni e Contaminanti	16
+12 - Dispositivi Contenenti Una Sostanza Considerata un Prodotto Medicinale e Dispositivi che Sono Costituiti da Sostanze o da Una Combinazione di Sostanze che Sono Assorbite dal Corpo Umano o in Esso Localmente Disperse	19
+13 - Dispositivi Contenenti Materiali di Origine Biologica	21
+14 - Fabbricazione dei Dispositivi e Interazione con il Loro Ambiente	25
+15 - Dispositivi con Funzione Diagnostica o di Misura	29
+16 - Protezione Contro le Radiazioni	30
+17 - Sistemi Elettronici Programmabili - Dispositivi Contenenti Sistemi Elettronici Programmabili e Software che Costituiscono Dispositivi a Sé Stanti	36
+18 - Dispositivi Attivi e Dispositivi a Essi Collegati	38
+19 - Requisiti Particolari per i Dispositivi Impiantabili Attivi	41
+20 - Protezione contro i rischi meccanici e termici	44
+21 - Protezione contro i rischi per il paziente e l'utilizzatore presentati da dispositivi che somministrano energia o sostanze	46
+22 - Protezione contro i rischi presentati da dispositivi medici che il fabbricante ha destinato a utilizzatori profani	48
+Capo III - Requisiti Riguardanti le Informazioni Fornite con il Dispositivo	50
+23 - Etichette e istruzioni per l'uso	50
+
+Tavola delle Revisioni
+
+
+
+Conformità della Documentazione alle Norme Applicabili
+LEGENDA:
+MDR = Regolamento 2017/745/UE (Medical Device Regulation)
+DM = Disposi
+... (content truncated)
+"""
+
+------------------------------------------------------------
+
+--- File #37 ---
+Filename: GSPR - SiglaNomeDisp_Rev00.0_EN.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\04_RES\GSPR - SiglaNomeDisp_Rev00.0_EN.docx
+Extracted Title(s)/Heading(s): Frontispiece; Date and signature for approval; Summary
+Content Preview:
+"""
+Frontispiece
+
+
+GENERAL SAFETY AND PERFORMANCE REQUIREMENTS
+in conformity with Regulation (EU) 2017/745 
+as Modified by Regulation (EU) 2020/561 
+of the device/s | of the family of devices
+Device Name | Family
+of models
+Model X, Model Y e Model Z
+
+
+Date and signature for approval
+
+
+Summary
+Frontispiece	1
+Date and signature for approval	1
+Summary	2
+Revision table	3
+1	Conformity of the documentation to the applied standards	1
+2	Corrispondence of the general safety and performance requirements	4
+Chapter I –  General requirements	4
+Chapter II – Requirements regarding design and manufacture	7
+10 – Chemical, physical and biological properties	7
+11 – Infection and microbial contamination	16
+12 – Device incorporating a substance considered to be a medicinal product and devices that are composed of substances or combination of substances that are absorbed by or locally dispersed in the human body	19
+13 – Devices incorporating materials of biological origin	20
+14 – Construction of devices and interaction with their environment	23
+15 – Devices with a diagnostic or measuring function	27
+16 – Protection against radiation	28
+17 – Electronic programmable systems – devices that incorporate electronic programmable systems and software that are devices in themselves	34
+18 – Active devices and devices connected to them	36
+19 – Particular requirements for active implantable devices	39
+20 – Protection against mechanical and thermal risks	42
+21 – Protection against the risks posed to the patient or user by devices supplying energy or substances	44
+22 – Protection against the risks posed by medical devices intended by the manufacturer for use by lay persons	46
+Chapter III – Requirements regarding the information supplied with the device	48
+23 – Label and instruction for use	48
+
+Revision table
+
+
+
+Conformity of the documentation to the applied standards
+LEGEND:
+MDR = Medical Device Regulation
+MD = Medical device, understood both in the plural and in the singular, also used for devices that f
+... (content truncated)
+"""
+
+------------------------------------------------------------
+
+--- File #38 ---
+Filename: GSPR - SiglaNomeDisp_Rev00.1_EN.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\04_RES\GSPR - SiglaNomeDisp_Rev00.1_EN.docx
+Extracted Title(s)/Heading(s): Frontispiece; Date and signature for approval; Summary
+Content Preview:
+"""
+Frontispiece
+
+
+GENERAL SAFETY AND PERFORMANCE REQUIREMENTS
+in conformity with Regulation (EU) 2017/745 
+as Modified by Regulation (EU) 2020/561 
+of the device / family of devices
+Nome Disp
+
+Date and signature for approval
+
+
+Summary
+Frontispiece	1
+Date and signature for approval	1
+Summary	2
+Revision table	3
+1	Conformity of the documentation to the applied standards	1
+2	Corrispondence of the general safety and performance requirements	3
+Chapter I –  General requirements	3
+Chapter II – Requirements regarding design and manufacture	7
+10 – Chemical, physical and biological properties	7
+11 – Infection and microbial contamination	13
+12 – Device incorporating a substance considered to be a medicinal product and devices that are composed of substances or combination of substances that are absorbed by or locally dispersed in the human body	16
+13 – Devices incorporating materials of biological origin	17
+14 – Construction of devices and interaction with their environment	19
+15 – Devices with a diagnostic or measuring function	23
+16 – Protection against radiation	24
+17 – Electronic programmable systems – devices that incorporate electronic programmable systems and software that are devices in themselves	29
+18 – Active devices and devices connected to them	30
+19 – Particular requirements for active implantable devices	32
+20 – Protection against mechanical and thermal risks	33
+21 – Protection against the risks posed to the patient or user by devices supplying energy or substances	35
+22 – Protection against the risks posed by medical devices intended by the manufacturer for use by lay persons	36
+Chapter III – Requirements regarding the information supplied with the device	37
+23 – Label and instruction for use	37
+
+Revision table
+
+
+
+Conformity of the documentation to the applied standards
+LEGEND:
+MDR = Medical Device Regulation
+MD = Medical device, understood both in the plural and in the singular, also used for devices that fall under Annex XVI of the MDR.
+MEE = Medical Electrical E
+... (content truncated)
+"""
+
+------------------------------------------------------------
+
+--- File #39 ---
+Filename: PED - SiglaNomeDisp_Rev00.0.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\04_RES\PED - SiglaNomeDisp_Rev00.0.docx
+Extracted Title(s)/Heading(s): Frontespizio; Data e Firma di Approvazione; Sommario
+Content Preview:
+"""
+Frontespizio
+
+Requisiti Essenziali di Sicurezza PED
+Secondo l’Allegato I della Direttiva 2014/68/UE
+(Apparecchiature a Pressione)
+del/i Dispositivo/i | della famiglia dei dispositivi
+Nome Dispositivo | Famiglia
+nei modelli
+Modello X, Modello Y e Modello Z
+
+Data e Firma di Approvazione
+
+
+Sommario
+Frontespizio	1
+Data e Firma di Approvazione	1
+Sommario	2
+Tavola delle Revisioni	3
+1	Conformità della Documentazione alle Norme Applicabili	1
+2	Corrispondenza dei Requisiti Essenziali di Sicurezza	2
+2.1	Osservazioni Preliminari	2
+1 - Norme di Carattere Generale	2
+2 - Progettazione	2
+3 - Fabbricazione	2
+4 - Materiali	3
+2.2	Requisiti Particolari per Attrezzature a Pressione Specifiche	3
+5 - Attrezzature a Pressione a Focolare o altro Tipo di Riscaldamento, con Rischio di Surriscaldamento, di Cui all’Articolo 4, Paragrafo 1	3
+6 - Tubazioni Descritte all’Articolo 4, Paragrafo 1, Lettera C)	3
+7 - Requisiti Particolari, Espressi in Cifre, per Attrezzature a Pressione Specifiche	3
+
+Tavola delle Revisioni
+
+
+
+
+Conformità della Documentazione alle Norme Applicabili
+
+
+
+Corrispondenza dei Requisiti Essenziali di Sicurezza
+Osservazioni Preliminari
+Gli obblighi definiti dai requisiti essenziali di sicurezza per le attrezzature a pressione indicati nel presente allegato si applicano anche agli insiemi qualora esista un pericolo corrispondente. 
+I requisiti essenziali di sicurezza fissati dalla presente direttiva sono vincolanti. Gli obblighi derivanti dai requisiti essenziali di sicurezza si applicano soltanto quando sussistono i pericoli corrispondenti per le attrezzature a pressione considerate, se utilizzate alle condizioni ragionevolmente prevedibili dal fabbricante. 
+Il fabbricante ha l’obbligo di analizzare i pericoli e i rischi per individuare quelli connessi con la sua attrezzatura a causa della pressione e deve quindi progettarla e costruirla tenendo conto della sua analisi. 
+I requisiti essenziali di sicurezza vanno interpretati e applicati in modo da tenere conto dello stato dell
+... (content truncated)
+"""
+
+------------------------------------------------------------
+
+--- File #40 ---
+Filename: PED - SiglaNomeDisp_Rev00.0_EN.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\04_RES\PED - SiglaNomeDisp_Rev00.0_EN.docx
+Extracted Title(s)/Heading(s): Frontispiece; Date and signature for approval; Summary
+Content Preview:
+"""
+Frontispiece
+
+Essential Safety Requirements PED
+according to Annex I of Directive 2014/68/EU
+ (Pressure Equipment)
+of the device/s | of the family of devices
+Device Name | Family
+of models
+Model X, Model Y e Model Z
+
+Date and signature for approval
+
+
+Summary
+Frontispiece	1
+Date and signature for approval	1
+Summary	2
+Revision table	3
+1	Conformity of the documentation to the applied standards	1
+2	Corrispondenza dei Requisiti Essenziali di Sicurezza	2
+2.1	Preliminary remarks	2
+1 – General rules	2
+2 -Design	2
+3 - Manufacturing	2
+4 - Materials	3
+2.2	Special requirements for specific pressure equipment	3
+5 – Pressure equipment with hearth or other type of heating, with risk of overheating, referred to in article 4, paragraph 1	3
+6 – Paping described in article 4, paragraph 1, letter C)	3
+7 – Special requirements, expressed in figures, for specific pressure equipment	3
+
+Revision table
+
+
+
+
+Conformity of the documentation to the applied standards
+
+
+
+Corrispondenza dei Requisiti Essenziali di Sicurezza
+Preliminary remarks
+The obligations laid down in the essential safety requirements for pressure equipment set out in this Annex shall also apply to assemblies where there is a corresponding hazard. 
+The essential safety requirements laid down in this Directive shall be binding. The obligations arising from the essential safety requirements shall apply only where the corresponding hazards exist for the pressure equipment concerned, when used under conditions reasonably foreseeable by the manufacturer. 
+The manufacturer is obliged to analyse hazards and risks in order to identify those associated with his equipment due to pressure and must therefore design and construct it taking into account his analysis. 
+The essential safety requirements must be interpreted and applied in such a way as to take account of the state of the art and practice at the time of design and manufacture, as well as technical and economic factors, which must be reconciled with a high level of health and sa
+... (content truncated)
+"""
+
+------------------------------------------------------------
+
+--- File #41 ---
+Filename: RE.Mac - SiglaNomeDisp_Rev00.0.docx
+Type: .docx
+Location: C:\Users\samue\Downloads\Sintica docs\Annex-20250526T203919Z-1-001\Annex\04_RES\RE.Mac - SiglaNomeDisp_Rev00.0.docx
+Extracted Title(s)/Heading(s): Frontespizio; Data e Firma di Approvazione; Sommario
+Content Preview:
+"""
