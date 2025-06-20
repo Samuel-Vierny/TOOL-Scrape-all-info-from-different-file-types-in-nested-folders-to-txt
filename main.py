@@ -27,7 +27,6 @@ from pathlib import Path
 
 try:
     from docx import Document
-    # from docx.enum.style import WD_STYLE_TYPE # Not explicitly used, can be removed if not needed for future heading style checks
 except ImportError:
     print("--------------------------------------------------------------------")
     print("WARNING: The 'python-docx' library is not installed or not found.")
@@ -42,7 +41,20 @@ except ImportError:
 #-------------------------------------------------------------------------
 # Set the path to the folder you want to scan here
 # IMPORTANT: Use forward slashes (/) or double backslashes (\\) for Windows paths
-DEFAULT_FOLDER_PATH = r"C:\Users\samue\Downloads\Sintica docs"  # <- CHANGE THIS PATH if not using CLI arg
+DEFAULT_FOLDER_PATH = r"G:\My Drive\A_Capstone Thesis - Sintica\Docs\Exp_Dev_Env\ITP Engine"  # <- CHANGE THIS PATH if not using CLI arg
+
+# --- NEW ---
+# Add any folder names you want to completely exclude from the scan.
+# This is case-sensitive. For example, 'backups' will be excluded but 'Backups' will not.
+EXCLUDE_FOLDERS = [
+    'to_exclude',
+    '.git',
+    '__pycache__',
+    'node_modules',
+    'backups',
+    'temp',
+    'vendor'
+]
 
 # Name of the output file (will be created in the same directory as this script)
 OUTPUT_FILE = "folder_content_report.txt"
@@ -85,74 +97,41 @@ def get_file_title_and_content(filepath):
         elif extension == ".docx" and Document is not None:
             doc = Document(filepath)
             titles_found = []
-            # Try to find titles from heading styles
             for para in doc.paragraphs:
-                # Check if style name exists and starts with 'Heading' (case-insensitive)
                 if para.style and para.style.name and para.style.name.lower().startswith('heading'):
-                    if para.text.strip(): # Ensure heading is not empty
+                    if para.text.strip():
                         titles_found.append(para.text.strip())
             
             if titles_found:
-                title = "; ".join(titles_found[:3]) # Take first few headings as title
-                if len(title) > 200: title = title[:200] + "..." # Cap title length
-            elif doc.paragraphs: # Fallback to first non-empty paragraph if no headings
-                 for para in doc.paragraphs:
+                title = "; ".join(titles_found[:3])
+                if len(title) > 200: title = title[:200] + "..."
+            elif doc.paragraphs:
+                for para in doc.paragraphs:
                     if para.text.strip():
                         title_candidate = para.text.strip()
-                        # Avoid overly long first paragraphs as titles
                         title = title_candidate[:150] + "..." if len(title_candidate) > 150 else title_candidate
                         break
 
-            full_text_list = []
-            for para in doc.paragraphs:
-                full_text_list.append(para.text)
+            full_text_list = [para.text for para in doc.paragraphs]
             full_text = "\n".join(full_text_list)
 
             if len(full_text) > MAX_CONTENT_PREVIEW_CHARS:
                 content_preview = full_text[:MAX_CONTENT_PREVIEW_CHARS] + "\n... (content truncated)"
             elif len(full_text.splitlines()) > MAX_CONTENT_PREVIEW_LINES:
-                content_preview = "\n".join(full_text.splitlines()[:MAX_CONTENT_PREVIEW_LINES]) + \
-                                  "\n... (content truncated)"
+                content_preview = "\n".join(full_text.splitlines()[:MAX_CONTENT_PREVIEW_LINES]) + "\n... (content truncated)"
             else:
                 content_preview = full_text
-            if not content_preview.strip() and not title: # If no text and no title derived
+            if not content_preview.strip() and not title:
                 content_notes = "[DOCX appears empty or has no extractable text/headings]"
             elif not content_preview.strip() and title:
-                 content_notes = "[DOCX has headings but no other significant body text found for preview]"
+                content_notes = "[DOCX has headings but no other significant body text found for preview]"
 
-
-        elif extension in ['.pdf', '.xlsx', '.xls', '.ppt', '.pptx']: # Placeholders for future extensions
+        elif extension in ['.pdf', '.xlsx', '.xls', '.ppt', '.pptx']:
             content_notes = f"[Content extraction for {extension} not yet implemented, but file is present.]"
-            # Example for PDF (requires PyPDF2 or similar):
-            # try:
-            #   from PyPDF2 import PdfReader
-            #   reader = PdfReader(filepath)
-            #   if reader.metadata and reader.metadata.title:
-            #       title = reader.metadata.title
-            #   text_pages = [page.extract_text() for page in reader.pages if page.extract_text()]
-            #   content_preview = "\n".join(text_pages)[:MAX_CONTENT_PREVIEW_CHARS]
-            #   if len(content_preview) == MAX_CONTENT_PREVIEW_CHARS: content_preview += "..."
-            # except ImportError:
-            #   content_notes = "[PyPDF2 library not installed. PDF processing skipped.]"
-            # except Exception as e_pdf:
-            #   content_notes = f"[Error processing PDF {path_obj.name}: {e_pdf}]"
-
-
-        elif extension in ['.jpg', '.jpeg', '.png', '.gif', '.bmp', '.tiff', '.svg', # Images
-                           '.exe', '.dll', '.app', '.bin', # Executables / Binary
-                           '.zip', '.gz', '.tar', '.rar', '.7z', # Archives
-                           '.mp3', '.wav', '.aac', '.flac', # Audio
-                           '.mp4', '.avi', '.mov', '.mkv', '.webm', # Video
-                           '.lnk', '.url' # Shortcuts
-                           ]:
+            
+        elif extension in ['.jpg', '.jpeg', '.png', '.gif', '.bmp', '.tiff', '.svg', '.exe', '.dll', '.app', '.bin', '.zip', '.gz', '.tar', '.rar', '.7z', '.mp3', '.wav', '.aac', '.flac', '.mp4', '.avi', '.mov', '.mkv', '.webm', '.lnk', '.url']:
             content_notes = f"[Binary, media, archive, or shortcut file ({extension}). Content not displayed.]"
-            if extension == '.lnk':
-                # Note: Robust .lnk parsing is complex and OS-dependent.
-                # For Windows, 'pylnk3' library could be used.
-                # For now, we just identify it.
-                content_notes += " (Shortcut file)"
         else:
-            # Try to read as text for unknown types, but be cautious
             try:
                 with open(filepath, 'r', encoding='utf-8', errors='ignore') as f:
                     lines = f.readlines()
@@ -164,7 +143,7 @@ def get_file_title_and_content(filepath):
                         content_preview = "".join(lines[:MAX_CONTENT_PREVIEW_LINES]) + "\n... (content truncated)"
                     else:
                         content_preview = full_content
-                    if content_preview.strip(): # Only add note if we actually got some text
+                    if content_preview.strip():
                         content_notes = f"[Attempted text extraction for unknown type {extension}]"
                     else:
                         content_notes = f"[Unknown file type ({extension}), appears empty or unreadable as text]"
@@ -175,76 +154,61 @@ def get_file_title_and_content(filepath):
 
     except Exception as e:
         content_notes = f"[ERROR processing file {path_obj.name}: {type(e).__name__} - {e}]"
-        content_preview = "" # Ensure no partial content on error
-        title = None # Ensure title is cleared on error
+        content_preview = ""
+        title = None
 
     return title, content_preview, content_notes
+
+# --- MODIFIED: REWRITTEN FOR CORRECT HIERARCHY ---
+def _tree_generator(directory: Path, file_out, prefix: str = ''):
+    """Recursive helper function to generate a proper directory tree."""
+    # Get all items in the directory, filter out excluded folders, and sort them
+    try:
+        items = sorted([item for item in directory.iterdir() if item.is_dir() and item.name not in EXCLUDE_FOLDERS] +
+                       [item for item in directory.iterdir() if item.is_file()])
+    except PermissionError:
+        file_out.write(f"{prefix}└── [Error: Permission Denied]\n")
+        return
+
+    # Define connectors for the tree branches
+    branch = '├── '
+    last_branch = '└── '
+    
+    for i, item in enumerate(items):
+        connector = last_branch if i == len(items) - 1 else branch
+        
+        # Write the current item to the file
+        if item.is_dir():
+            file_out.write(f"{prefix}{connector}{item.name}/\n")
+            # Determine the prefix for the next level of recursion
+            new_prefix = prefix + ('    ' if i == len(items) - 1 else '│   ')
+            _tree_generator(item, file_out, prefix=new_prefix)
+        else:
+            file_out.write(f"{prefix}{connector}{item.name}\n")
 
 
 def generate_directory_tree(folder_path_str, output_file_object):
     """
-    Generates a directory tree structure and writes it to the file.
-    Uses pathlib for robust path handling.
+    Generates a directory tree structure and writes it to the file,
+    respecting the EXCLUDE_FOLDERS list.
     """
     base_folder_path = Path(folder_path_str)
     output_file_object.write(f"Directory Tree for: {base_folder_path}\n")
     output_file_object.write("="*50 + "\n")
-
-    # Store paths to sort directories before files, and handle levels correctly
-    paths_to_print = []
-
-    for root, dirs, files in os.walk(base_folder_path):
-        current_path = Path(root)
-        relative_path = current_path.relative_to(base_folder_path)
-        depth = len(relative_path.parts)
-
-        # Add current directory to list
-        paths_to_print.append({'name': current_path.name + ('/' if current_path != base_folder_path else '/'), 'depth': depth, 'is_dir': True, 'path_obj': current_path})
-        
-        # Sort dirs and files for consistent output
-        dirs.sort()
-        files.sort()
-
-        for d_name in dirs:
-            pass # Handled by the os.walk implicitly for structure, explicit printing done by depth
-            
-        for f_name in files:
-            paths_to_print.append({'name': f_name, 'depth': depth + 1, 'is_dir': False, 'path_obj': current_path / f_name})
-
-    # Simplified tree printing logic after collecting all paths
-    # This part needs refinement for proper tree characters based on hierarchy
-    # The initial example tree structure is complex to replicate perfectly without a dedicated library
     
-    # Fallback to simple os.walk based printing (closer to original request)
+    # Start the tree with the root folder name
     output_file_object.write(f"{base_folder_path.name}/\n")
-    for root, dirs, files in os.walk(base_folder_path):
-        current_path_obj = Path(root)
-        level = len(current_path_obj.relative_to(base_folder_path).parts)
-        
-        dirs.sort() # Sort for consistent order
-        files.sort()
-
-        # Print directories at this level
-        for d in dirs:
-            indent = '│   ' * level + '├── '
-            output_file_object.write(f"{indent}{d}/\n")
-
-        # Print files at this level
-        num_files = len(files)
-        for i, f in enumerate(files):
-            if i == num_files - 1 and not dirs: # Last item in this directory if no subdirs follow immediately
-                 connector = '└── '
-            else:
-                 connector = '├── '
-            indent = '│   ' * level + connector
-            output_file_object.write(f"{indent}{f}\n")
-            
+    # Call the recursive generator to build the tree
+    _tree_generator(base_folder_path, output_file_object)
+    
     output_file_object.write("="*50 + "\n\n")
+# --- END MODIFIED SECTION ---
 
 
 def scan_folder_and_collect_files(folder_path):
     """
-    Recursively scan a folder and collect all file paths.
+    Recursively scan a folder and collect all file paths,
+    respecting the EXCLUDE_FOLDERS list.
     """
     all_files_paths = []
     root_path_obj = Path(folder_path)
@@ -256,11 +220,14 @@ def scan_folder_and_collect_files(folder_path):
         print(f"Error: '{folder_path}' is not a directory.")
         sys.exit(1)
 
-    for root, _, files in os.walk(folder_path):
+    for root, dirs, files in os.walk(folder_path):
+        # Exclude specified directories from traversal.
+        dirs[:] = [d for d in dirs if d not in EXCLUDE_FOLDERS]
+
         for file_name in files:
-            all_files_paths.append(str(Path(root) / file_name)) # Use Path for robust join
+            all_files_paths.append(str(Path(root) / file_name))
     
-    all_files_paths.sort() # Sort for consistent processing order
+    all_files_paths.sort()
     return all_files_paths
 
 
@@ -272,12 +239,12 @@ def write_report_to_file(files_paths, output_file_path_obj, source_folder_str):
         f.write(f"FOLDER CONTENT REPORT\n")
         f.write(f"Source Folder: {source_folder_str}\n")
         f.write(f"Scan Date: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
-        f.write(f"Total files processed: {len(files_paths)}\n") # Changed from "found" to "processed"
+        f.write(f"Total files processed: {len(files_paths)}\n")
+        f.write(f"(Excluded folders: {', '.join(EXCLUDE_FOLDERS) if EXCLUDE_FOLDERS else 'None'})\n")
         f.write("="*80 + "\n\n")
 
-        # Generate and write the directory tree first
         print("Generating directory tree...")
-        generate_directory_tree(source_folder_str, f) # Pass the source folder string
+        generate_directory_tree(source_folder_str, f)
         
         f.write("DETAILED FILE INFORMATION:\n")
         f.write("="*80 + "\n\n")
@@ -290,7 +257,7 @@ def write_report_to_file(files_paths, output_file_path_obj, source_folder_str):
             f.write(f"Filename: {file_path_item.name}\n")
             
             file_extension = file_path_item.suffix if file_path_item.suffix else "[no extension]"
-            f.write(f"Type: {file_extension.lower() if file_extension != '[no extension]' else file_extension}\n") # Ensure lowercase extension
+            f.write(f"Type: {file_extension.lower() if file_extension != '[no extension]' else file_extension}\n")
             
             f.write(f"Location: {str(file_path_item)}\n")
 
@@ -299,20 +266,18 @@ def write_report_to_file(files_paths, output_file_path_obj, source_folder_str):
             if title:
                 f.write(f"Extracted Title(s)/Heading(s): {title}\n")
             
-            if content_notes: # Always print notes if any
+            if content_notes:
                 f.write(f"Notes: {content_notes}\n")
 
-            if content_preview and content_preview.strip(): # Check if preview has actual content
+            if content_preview and content_preview.strip():
                 f.write("Content Preview:\n\"\"\"\n")
                 f.write(content_preview.strip())
                 f.write("\n\"\"\"\n")
-            # If no preview, but also no specific note saying why (e.g. binary file), it implies an issue or empty
             elif not content_notes or ("[Empty text file]" not in content_notes and "appears empty" not in content_notes and "Binary" not in content_notes and "not yet implemented" not in content_notes):
-                 f.write("Content Preview: [Not available, file might be empty, or an issue occurred during extraction]\n")
-
+                f.write("Content Preview: [Not available, file might be empty, or an issue occurred during extraction]\n")
 
             f.write("\n" + "-"*60 + "\n\n")
-        
+    
     print(f"\nScan complete! Results written to {output_file_path_obj}")
     print(f"Processed {len(files_paths)} files in total.")
 
@@ -324,20 +289,12 @@ def main():
     else:
         folder_path_arg = DEFAULT_FOLDER_PATH
         
-        # More specific check for the placeholder path
-        if DEFAULT_FOLDER_PATH == r"C:\Users\samue\Downloads\Sintica docs" or \
-           DEFAULT_FOLDER_PATH.lower() == "/path/to/your/folder" or \
-           not Path(DEFAULT_FOLDER_PATH).exists(): # Also check if default path doesn't exist
-            print(f"INFO: Using default/placeholder FOLDER_PATH: {DEFAULT_FOLDER_PATH}")
-            if not Path(DEFAULT_FOLDER_PATH).exists():
-                print(f"WARNING: The default path '{DEFAULT_FOLDER_PATH}' does not exist.")
+        if not Path(DEFAULT_FOLDER_PATH).exists():
+            print(f"WARNING: The default path '{DEFAULT_FOLDER_PATH}' does not exist.")
             print("Please change the DEFAULT_FOLDER_PATH variable in the script to your target folder,")
             print("or provide a valid path as a command-line argument.")
-            print("Example: python your_script_name.py \"/actual/path/to/scan\"")
-            if not Path(DEFAULT_FOLDER_PATH).exists(): # Exit if default path is bad and no arg given
-                sys.exit("Script cannot proceed with a non-existent default path. Please provide a valid path.")
+            sys.exit("Script cannot proceed with a non-existent default path.")
 
-    # Normalize path and ensure it's absolute for clarity
     try:
         resolved_folder_path = str(Path(folder_path_arg).resolve(strict=True))
     except FileNotFoundError:
@@ -347,28 +304,26 @@ def main():
         print(f"ERROR: Invalid folder path specified: {folder_path_arg} ({e})")
         sys.exit(1)
 
-
     print(f"Starting scan for folder: {resolved_folder_path}")
+    if EXCLUDE_FOLDERS:
+        print(f"Excluding folders named: {', '.join(EXCLUDE_FOLDERS)}")
     
     collected_files = scan_folder_and_collect_files(resolved_folder_path)
     
-    # Output file is in the script's directory
     script_dir = Path(__file__).parent.resolve()
     output_path = script_dir / OUTPUT_FILE
     
     if not collected_files:
-        print("No files found in the specified directory.")
-        # Create an empty report or just a note
+        print("No files found in the specified directory (after exclusions).")
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write(f"FOLDER CONTENT REPORT\n")
             f.write(f"Source Folder: {resolved_folder_path}\n")
             f.write(f"Scan Date: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
-            f.write("No files found in the specified directory.\n")
+            f.write("No files found in the specified directory (after exclusions).\n")
         print(f"Empty report written to {output_path}")
         return
 
     write_report_to_file(collected_files, output_path, resolved_folder_path)
 
 if __name__ == "__main__":
-    # The import try-except block for Document already prints a warning if python-docx is missing.
     main()
